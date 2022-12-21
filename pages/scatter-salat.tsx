@@ -5,6 +5,7 @@ import { ScatterPlot } from "../components";
 import data from "../data/scatter-salat.json";
 import ingred from "../data/scatter-salat-ingred.json";
 import kraje from "../data/scatter-salat-kraje.json";
+import { usePostMessageWithHeight } from "../hooks";
 
 const series = [
   ...kraje.map((kraj, index) => {
@@ -28,8 +29,12 @@ const series = [
 ];
 
 const ScatterSalat = () => {
+  const { containerRef, postHeightMessage } = usePostMessageWithHeight(
+    "paq_narust_uspory_abs"
+  );
+
   return (
-    <>
+    <div ref={containerRef}>
       <Head>
         <title>
           Jaká je pravděpodobnost přidání suroviny do bramborového salátu
@@ -87,7 +92,7 @@ const ScatterSalat = () => {
         , výpočty{" "}
         <Link href={"https://twitter.com/HynekCigler"}>Hynka Cíglera</Link>
       </p>
-    </>
+    </div>
   );
 };
 
