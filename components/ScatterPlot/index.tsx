@@ -8,18 +8,29 @@ const ScatterPlot = (props: any) => {
     },
     chart: {
       type: "scatter",
-      height: 750,
+      height: props.height,
       animation: false,
     },
     series: props.series,
-    xAxis: {},
+    xAxis: {
+      title: { text: props.xTitle },
+      labels: {
+        format: props.xLabelsFormat,
+      },
+    },
     yAxis: {
       categories: props.categories,
       reversed: true,
       title: {
         enabled: false,
       },
+      labels: {
+        padding: props.yLabelPadding,
+        allowOverlap: props.yLabelOverlap,
+      },
+      crosshair: props.yCrosshair,
     },
+    tooltip: { formatter: props.tooltipFormatter },
     plotOptions: {
       series: {
         animation: false,
@@ -27,6 +38,13 @@ const ScatterPlot = (props: any) => {
     },
     credits: {
       enabled: false,
+    },
+    legend: {
+      itemDistance: props.legendItemDistance,
+      margin: props.legendMargin,
+      verticalAlign: props.legendVerticalAlign,
+      align: props.legendAlign,
+      padding: props.legendPadding,
     },
   };
 
