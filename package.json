@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "production": "aws s3 sync out s3://datarozhlas/charts --acl public-read && aws cloudfront create-invalidation --distribution-id E3ABKG4QXPTL3P --paths '/charts/*'"
   },
   "dependencies": {
     "@next/font": "13.0.7",

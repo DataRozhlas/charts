@@ -9,14 +9,14 @@ import { includes } from "lodash";
 const series = [
   {
     data: prumery.map((item, index) => {
-      return { x: item, y: index };
+      return { x: item * 100, y: index };
     }),
     name: "Česká republika",
   },
   ...kraje.map((kraj, index) => {
     return {
       data: data.map((item, i) => {
-        return { x: item[index], y: i };
+        return { x: item[index] * 100, y: i };
       }),
       name: kraj,
       visible: ["Hlavní město Praha", "Jihomoravský kraj"].includes(kraj)
