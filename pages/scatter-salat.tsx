@@ -29,9 +29,8 @@ const series = [
 ];
 
 const ScatterSalat = () => {
-  const { containerRef, postHeightMessage } = usePostMessageWithHeight(
-    "paq_narust_uspory_abs"
-  );
+  const { containerRef, postHeightMessage } =
+    usePostMessageWithHeight("cro-scatter-salat");
 
   return (
     <div ref={containerRef}>
