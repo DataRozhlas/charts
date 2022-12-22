@@ -81,15 +81,21 @@ const ScatterSalat = () => {
         Zdroj:{" "}
         <Link
           href={"https://en.wikipedia.org/wiki/Bradley%E2%80%93Terry_model"}
+          target="_blank"
         >
           Bradley-Terry model
         </Link>{" "}
         nad{" "}
-        <Link href={"https://github.com/DataRozhlas/brsalat-analyza"}>
+        <Link
+          href={"https://github.com/DataRozhlas/brsalat-analyza"}
+          target="_blank"
+        >
           daty iROZHLAS.cz
         </Link>
         , výpočty{" "}
-        <Link href={"https://twitter.com/HynekCigler"}>Hynka Cíglera</Link>
+        <Link href={"https://twitter.com/HynekCigler"} target="_blank">
+          Hynka Cíglera
+        </Link>
       </p>
     </div>
   );
