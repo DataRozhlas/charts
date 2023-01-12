@@ -11,11 +11,14 @@ const result = [];
 for (let j = 0; j < json.length; j++) {
   const to: string[] = Object.keys(json[j]).filter(key => key !== "from");
   for (let k = 0; k < to.length; k++) {
-    if (json[j][to[k]] < 20000) continue;
+    let weight = json[j][to[k]];
+    if (weight < 20000) {
+      weight = 0;
+    }
     result.push({
       from: json[j].from,
       to: to[k],
-      weight: json[j][to[k]],
+      weight: weight,
     });
   }
 }
