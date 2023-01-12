@@ -11,6 +11,7 @@ const result = [];
 for (let j = 0; j < json.length; j++) {
   const to: string[] = Object.keys(json[j]).filter(key => key !== "from");
   for (let k = 0; k < to.length; k++) {
+    if (json[j][to[k]] < 20000) continue;
     result.push({
       from: json[j].from,
       to: to[k],
