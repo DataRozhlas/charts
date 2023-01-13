@@ -47,7 +47,14 @@ const SankeyPrez = () => {
       <p className="text-xs text-end">
         Zdroj dat:{" "}
         <Link href={"https://www.paqresearch.cz/"} target="_blank">
-          PAQ Research
+          PAQ Research{" "}
+        </Link>
+        - odhad z okrskových dat sčítání (ekologická inference)
+      </p>
+      <p className="text-xs text-end">
+        Vizualizace:
+        <Link href={"https://www.irozhlas.cz/"} target="_blank">
+          iROZHLAS.cz
         </Link>
       </p>
     </div>
