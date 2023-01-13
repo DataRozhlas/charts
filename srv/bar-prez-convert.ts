@@ -14,7 +14,7 @@ const result = names.map(name => {
   return {
     name: name,
     data: json.map((row: any) => {
-      return row[name];
+      return row[name] * 100;
     }),
   };
 });
