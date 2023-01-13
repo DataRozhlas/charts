@@ -10,6 +10,7 @@ const Sankey = (props: any) => {
   const options = {
     chart: {
       height: props.height,
+      type: "sankey",
     },
     title: {
       text: undefined,
@@ -17,17 +18,12 @@ const Sankey = (props: any) => {
     credits: {
       enabled: false,
     },
-    accessibility: {
-      point: {
-        valueDescriptionFormat:
-          "{index}. {point.from} to {point.to}, {point.weight}.",
-      },
-    },
     series: [
       {
         data: props.data,
-        type: "sankey",
         name: "",
+        nodes: props.nodes,
+        nodeWidth: props.nodeWidth,
       },
     ],
   };
