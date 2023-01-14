@@ -35,6 +35,10 @@ const Bar = (props: any) => {
       series: {
         stacking: props.stacking,
         animation: props.animation,
+        dataLabels: {
+          enabled: props.dataLabelsEnabled,
+          format: "{point.y:.0f} %",
+        },
       },
     },
     legend: {

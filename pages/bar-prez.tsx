@@ -41,6 +41,7 @@ const BarPrez = () => {
         sharedTooltip={false}
         valueSuffix={" %"}
         valueDecimals={1}
+        dataLabelsEnabled={true}
       />
       <p className="text-xs text-end">
         Zdroj dat:{" "}

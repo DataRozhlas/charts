@@ -17,8 +17,8 @@ const SankeyPrez = () => {
         Komu dali hlas voliči stran z parlamentních voleb 2021{" "}
       </h1>
       <h2 className="leading-4 pb-0">
-        Tloušťka spojnice odpovídá počtu voličů. Zobrazujeme jen přelivy od 20
-        tisíc hlasů výš
+        Tloušťka spojnice odpovídá počtu voličů. Zobrazujeme přelivy od 20 tisíc
+        hlasů výš
       </h2>
 
       <Sankey
@@ -37,8 +37,7 @@ const SankeyPrez = () => {
           { id: "Danuše Nerudová", color: "#614991" },
           { id: "Jaroslav Bašta", color: "#f1a711" },
           { id: "Pavel Fischer", color: "#02afd4" },
-          { id: "Marek Hilšer", color: "#f15c80" },
-          { id: "Ostatní", color: "#349db2" },
+          { id: "Ostatní", color: "#f15c80" },
           { id: "Neúčast", color: "#808080" },
         ]}
         //  strany SPOLU "#8a4a89",  "#4848b3", "#68808b", "#f1a711", "#349db2", "#fb9179"

@@ -1,10 +1,10 @@
+// deno-lint-ignore-file no-explicit-any
 // @deno-types="https://cdn.sheetjs.com/xlsx-0.19.1/package/types/index.d.ts"
 import * as XLSX from "https://cdn.sheetjs.com/xlsx-0.19.1/package/xlsx.mjs";
 
-const source = XLSX.readFile("srv/data/EI_graf_vzor_v01.xlsx");
+const source = XLSX.readFile("srv/data/EI_sankey.xlsx");
 
-// deno-lint-ignore no-explicit-any
-const json: any = XLSX.utils.sheet_to_json(source.Sheets.List1);
+const json: any = XLSX.utils.sheet_to_json(source.Sheets.Sheet1);
 
 const result = [];
 
@@ -25,4 +25,4 @@ for (let j = 0; j < json.length; j++) {
 
 await Deno.writeTextFile("data/sankey-prez.json", JSON.stringify(result));
 
-console.log(result);
+console.log(json);
