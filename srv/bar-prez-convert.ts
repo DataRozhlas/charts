@@ -19,8 +19,14 @@ const result = names.map(name => {
   };
 });
 
-await Deno.writeTextFile("data/bar-prez-cat.json", JSON.stringify(categories));
+await Deno.writeTextFile(
+  "data/bar-prez-2kolo-psp-cat.json",
+  JSON.stringify(categories)
+);
 
-await Deno.writeTextFile("data/bar-prez.json", JSON.stringify(result));
+await Deno.writeTextFile(
+  "data/bar-prez-2kolo-psp.json",
+  JSON.stringify(result)
+);
 
 console.log(json);

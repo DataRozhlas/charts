@@ -1,13 +1,14 @@
 import Link from "next/link";
 import Head from "next/head";
 import { Bar } from "../components";
-import data from "../data/bar-prez.json";
-import categories from "../data/bar-prez-cat.json";
+import data from "../data/bar-prez-2kolo-psp.json";
+import categories from "../data/bar-prez-2kolo-psp-cat.json";
 import { usePostMessageWithHeight } from "../hooks";
 
 const BarPrez = () => {
-  const { containerRef, postHeightMessage } =
-    usePostMessageWithHeight("cro-bar-prez");
+  const { containerRef, postHeightMessage } = usePostMessageWithHeight(
+    "cro-bar-prez-2kolo-psp"
+  );
 
   return (
     <div className="bg-white" ref={containerRef}>

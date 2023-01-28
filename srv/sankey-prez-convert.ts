@@ -23,6 +23,9 @@ for (let j = 0; j < json.length; j++) {
   }
 }
 
-await Deno.writeTextFile("data/sankey-prez.json", JSON.stringify(result));
+await Deno.writeTextFile(
+  "data/sankey-prez2kolo-psp.json",
+  JSON.stringify(result)
+);
 
 console.log(json);
