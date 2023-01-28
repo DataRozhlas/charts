@@ -35,7 +35,7 @@ const BarPrez = () => {
           //   "#6cc3d9",
           //   "#f16084",
           //   "#34b2b2",
-          "#34b2b2",
+          "#b5b5bf",
         ]}
         legendVerticalAlign={"top"}
         sharedTooltip={false}

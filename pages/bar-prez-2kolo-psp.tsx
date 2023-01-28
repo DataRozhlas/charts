@@ -31,12 +31,12 @@ const BarPrez = () => {
         colors={[
           "#3f558c",
           "#5784d9",
-          "#806cb3",
-          "#f5ab4a",
-          "#6cc3d9",
-          "#f16084",
-          "#34b2b2",
           "#b5b5bf",
+          // "#f5ab4a",
+          // "#6cc3d9",
+          // "#f16084",
+          // "#34b2b2",
+          // "#b5b5bf",
         ]}
         legendVerticalAlign={"top"}
         sharedTooltip={false}

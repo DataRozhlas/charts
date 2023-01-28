@@ -33,7 +33,7 @@ const SankeyPrez = () => {
           { id: "Voliči PirStan", color: "#68808b" },
           { id: "Voliči SPD", color: "#f1a711" },
           { id: "Voliči ostatních stran", color: "#349db2" },
-          { id: "Neúčastníci + prvovoliči", color: "#fb9179" },
+          { id: "Neúčast", color: "#808080" },
           { id: "PETR PAVEL", color: "#102157" },
           { id: "ANDREJ BABIŠ", color: "#4848b3" },
           //   { id: "Danuše Nerudová", color: "#614991" },
