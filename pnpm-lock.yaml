@@ -1,6 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@highcharts/map-collection': ^2.0.1
   '@next/font': 13.0.7
   '@types/lodash': ^4.14.191
   '@types/node': 18.11.17
@@ -20,6 +21,7 @@ specifiers:
   typescript: 4.9.4
 
 dependencies:
+  '@highcharts/map-collection': 2.0.1
   '@next/font': 13.0.7
   '@types/lodash': 4.14.191
   '@types/node': 18.11.17
@@ -64,6 +66,10 @@ packages:
       strip-json-comments: 3.1.1
     transitivePeerDependencies:
       - supports-color
+    dev: false
+
+  /@highcharts/map-collection/2.0.1:
+    resolution: {integrity: sha512-eC5sEMC8LoCVMCz4BKuREcS3wVBBSFaRClJ7/vVZxd4nJe0VEykSFfQJwh8lpY4oJDy46iYrFzy3fwsTo9hmqg==}
     dev: false
 
   /@humanwhocodes/config-array/0.11.8:

@@ -1,0 +1,746 @@
+[
+  {
+    "start": "04.04.2013",
+    "end": "05.04.2013",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "pracovní návštěva ",
+    "desc": "prezidenta Zemana ve Slovenské republice"
+  },
+  {
+    "start": "23.04.2013",
+    "end": "24.04.2013",
+    "country": "Rakousko",
+    "iso": "AT",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Rakouské republice"
+  },
+  {
+    "start": "23.05.2013",
+    "end": "24.05.2013",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Polské republice"
+  },
+  {
+    "start": "12.06.2013",
+    "end": "13.06.2013",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "účast na summitu ",
+    "desc": "účast prezidenta Zemana na 18. summitu prezidentů střední Evropy v Bratislavě"
+  },
+  {
+    "start": "26.06.2013",
+    "end": "27.06.2013",
+    "country": "Německo",
+    "iso": "DE",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Spolkové republice Německo"
+  },
+  {
+    "start": "30.06.2013",
+    "end": "",
+    "country": "Chorvatsko",
+    "iso": "HR",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Chorvatské republice u příležitosti oslav vstupu Chorvatska do EU"
+  },
+  {
+    "start": "02.07.2013",
+    "end": "03.07.2013",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "účast na summitu ",
+    "desc": "účast prezidenta Zemana na summitu prezidentů zemí Visegrádské skupiny v polské Visle"
+  },
+  {
+    "start": "18.09.2013",
+    "end": "19.09.2013",
+    "country": "Belgie",
+    "iso": "BE",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Bruselu "
+  },
+  {
+    "start": "06.10.2013",
+    "end": "09.10.2013",
+    "country": "Izrael",
+    "iso": "IL",
+    "type": "státní návštěva",
+    "desc": "státní návštěva prezidenta Zemana ve Státu Izrael"
+  },
+  {
+    "start": "18.10.2013",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "type": "setkání",
+    "desc": "setkání prezidenta Zemana s prezidentem Fischerem v Českém Krumlově a Freistadtu"
+  },
+  {
+    "start": "20.10.2013",
+    "end": "22.10.2013",
+    "country": "Ukrajina",
+    "iso": "UA",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana na Ukrajině"
+  },
+  {
+    "start": "24.01.2014",
+    "end": "25.01.2014",
+    "country": "Afghánistán",
+    "iso": "AF",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Afghánské islámské republice"
+  },
+  {
+    "start": "06.02.2014",
+    "end": "09.02.2014",
+    "country": "Rusko",
+    "iso": "RU",
+    "type": "olympijské hry",
+    "desc": "účast prezidenta Zemana na zahájení XXII. zimních olympijských her v Soči. Při této příležitosti se prezident Zeman setkal také s prezidentem Čínské lidové republiky panem Si Ťin-pchingem, prezidentem Ázerbájdžánské republiky Ilhamem Alijevem a prezidentem Republiky Tádžikistán Emómalí-ji Rahmónem. "
+  },
+  {
+    "start": "26.02.2014",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Evropském parlamentu ve Štrasburku"
+  },
+  {
+    "start": "01.04.2014",
+    "end": "02.04.2014",
+    "country": "Srbsko",
+    "iso": "RS",
+    "type": "státní návštěva",
+    "desc": "státní návštěva prezidenta Zemana v Srbské republice a v v Republice Slovinsko"
+  },
+  {
+    "start": "03.04.2014",
+    "end": "04.04.2014",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "type": "státní návštěva",
+    "desc": "státní návštěva prezidenta Zemana v Srbské republice a v v Republice Slovinsko"
+  },
+  {
+    "start": "20.05.2014",
+    "end": "23.05.2014",
+    "country": "Rumunsko, Moldavsko",
+    "iso": "RO",
+    "type": "státní návštěva",
+    "desc": "státní návštěva prezidenta Zemana v Rumunsku a Moldavské republice"
+  },
+  {
+    "start": "03.06.2014",
+    "end": "04.06.2014",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Polské republice u příležitosti oslav 25. výročí polské svobody "
+  },
+  {
+    "start": "06.06.2014",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana ve Francouzské republice oslav 70. výročí vylodění spojeneckých vojsk v Normandii."
+  },
+  {
+    "start": "16.06.2014",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Maďarsku u příležitosti připomínky revoluce roku 1956 a událostí roku 1989"
+  },
+  {
+    "start": "22.07.2014",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Polské republice při příležitosti setkání prezidentů spojeneckých států ve střední a východní Evropě před Summitem NATO"
+  },
+  {
+    "start": "29.08.2014",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana ve Slovenské republice u příležitosti 70. výročí Slovenského národního povstání"
+  },
+  {
+    "start": "04.09.2014",
+    "end": "05.09.2014",
+    "country": "Británie",
+    "iso": "GB",
+    "type": "účast na summitu ",
+    "desc": "účast prezidenta Zemana na Summitu NATO ve Velké Británii"
+  },
+  {
+    "start": "08.09.2014",
+    "end": "10.09.2014",
+    "country": "Francie",
+    "iso": "FR",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva prezidenta Zemana Francouzské republiky"
+  },
+  {
+    "start": "09.10.2014",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana ve Spolkové republice Německo k oslavám 25. výročí mírové revoluce"
+  },
+  {
+    "start": "16.10.2014",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Italské republice při příležitosti 10. summitu ASEM"
+  },
+  {
+    "start": "24.10.2014",
+    "end": "27.10.2014",
+    "country": "Čína",
+    "iso": "CN",
+    "type": "státní návštěva",
+    "desc": "státní návštěva prezidenta Zemana v Čínské lidové republice"
+  },
+  {
+    "start": "16.11.2014",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Slovenské republice u příležitosti 25. výročí sametové revoluce"
+  },
+  {
+    "start": "23.11.2014",
+    "end": "25.11.2014",
+    "country": "Kazachstán",
+    "iso": "KZ",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva prezidenta Zemana v Republice Kazachstán a v Republice Tádžikistán"
+  },
+  {
+    "start": "25.11.2014",
+    "end": "27.11.2014",
+    "country": "Tádžikistán",
+    "iso": "TJ",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva prezidenta Zemana v Republice Kazachstán a v Republice Tádžikistán"
+  },
+  {
+    "start": "09.02.2015",
+    "end": "11.02.2015",
+    "country": "Jordánsko",
+    "iso": "JO",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva prezidenta Zemana v Jordánském hášimovském království a Spojených arabských emirátech"
+  },
+  {
+    "start": "11.02.2015",
+    "end": "13.02.2015",
+    "country": "Spojené arabské emiráty",
+    "iso": "AE",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva prezidenta Zemana v Jordánském hášimovském království a Spojených arabských emirátech"
+  },
+  {
+    "start": "01.03.2015",
+    "end": "03.03.2015",
+    "country": "USA",
+    "iso": "US",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana ve Spojených státech amerických"
+  },
+  {
+    "start": "24.04.2015",
+    "end": "",
+    "country": "Vatikán",
+    "iso": "VA",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva prezidenta Zemana ve Vatikánu"
+  },
+  {
+    "start": "07.05.2015",
+    "end": "08.05.2015",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Polské republice při příležitosti připomínky 70. výročí konce druhé světové"
+  },
+  {
+    "start": "21.05.2015",
+    "end": "22.05.2015",
+    "country": "Lotyšsko",
+    "iso": "LV",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva prezidenta Zemana v Lotyšské republice u příležitosti 4. summitu Východního partnerství "
+  },
+  {
+    "start": "01.09.2015",
+    "end": "06.09.2015",
+    "country": "Čína",
+    "iso": "CN",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva ČLR"
+  },
+  {
+    "start": "14.07.2015",
+    "end": "17.07.2015",
+    "country": "Ázerbájdžán",
+    "iso": "AZ",
+    "type": "státní návštěva",
+    "desc": "státní návštěva v Ázerbájdžánské republice "
+  },
+  {
+    "start": "26.09.2015",
+    "end": "29.09.2015",
+    "country": "USA",
+    "iso": "US",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Spojených států amerických u příležitosti Valného shromáždění OSN"
+  },
+  {
+    "start": "07.10.2015",
+    "end": "09.10.2015",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Maďarské republiky při příležitosti summitu prezidentů zemí V4"
+  },
+  {
+    "start": "07.06.2016",
+    "end": "09.06.2016",
+    "country": "Arménie",
+    "iso": "AM",
+    "type": "státní návštěva",
+    "desc": "státní návštěva v Arménské republice"
+  },
+  {
+    "start": "09.06.2016",
+    "end": "10.06.2016",
+    "country": "Severní Makedonie",
+    "iso": "MK",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva v Makedonské republice"
+  },
+  {
+    "start": "08.07.2016",
+    "end": "09.07.2016",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "účast na summitu ",
+    "desc": "Summit NATO ve Varšavě"
+  },
+  {
+    "start": "13.07.2016",
+    "end": "16.07.2016",
+    "country": "Mongolsko",
+    "iso": "MN",
+    "type": "účast na summitu ",
+    "desc": "Summit ASEM v Ulánbátaru"
+  },
+  {
+    "start": "03.08.2016",
+    "end": "07.08.2016",
+    "country": "Brazílie",
+    "iso": "BR",
+    "type": "olympijské hry",
+    "desc": "účast na zahájení Letních olympijských her 2016 v Riu de Janeiro"
+  },
+  {
+    "start": "19.09.2016",
+    "end": "22.09.2016",
+    "country": "USA",
+    "iso": "US",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva USA, 71. zasedání Valného shromáždění OSN"
+  },
+  {
+    "start": "29.09.2016",
+    "end": "01.10.2016",
+    "country": "Řecko",
+    "iso": "GR",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva v Helénské republice, účast na Rhodes Forum 2016"
+  },
+  {
+    "start": "13.10.2016",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "pohřeb",
+    "desc": "účast na pohřbu Michala Kováče v Bratislavě"
+  },
+  {
+    "start": "14.10.2016",
+    "end": "15.10.2016",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "účast na summitu ",
+    "desc": "summit prezidentů zemí V4 v Polsku"
+  },
+  {
+    "start": "13.12.2016",
+    "end": "15.12.2016",
+    "country": "Portugalsko",
+    "iso": "PT",
+    "type": "státní návštěva",
+    "desc": "státní návštěva Portugalské republiky"
+  },
+  {
+    "start": "28.03.2017",
+    "end": "29.03.2017",
+    "country": "Chorvatsko",
+    "iso": "HR",
+    "type": "státní návštěva",
+    "desc": "státní návštěva Chorvatské republiky "
+  },
+  {
+    "start": "12.05.2017",
+    "end": "17.05.2017",
+    "country": "Čína",
+    "iso": "CN",
+    "type": "konference",
+    "desc": "Konference Belt and Road Forum v Číně"
+  },
+  {
+    "start": "15.05.2017",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "type": "účast na summitu",
+    "desc": "Summit NATO v Bruselu"
+  },
+  {
+    "start": "06.06.2017",
+    "end": "08.06.2017",
+    "country": "Vietnam",
+    "iso": "VN",
+    "type": "státní návštěva",
+    "desc": "státní návštěva ve Vientamu"
+  },
+  {
+    "start": "08.06.2017",
+    "end": "10.06.2017",
+    "country": "Kazachstán",
+    "iso": "KZ",
+    "type": "návštěva EXPO",
+    "desc": "návštěva EXPO v Astaně "
+  },
+  {
+    "start": "16.06.2017",
+    "end": "",
+    "country": "Británie",
+    "iso": "GB",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěvě Velké Británie"
+  },
+  {
+    "start": "18.09.2017",
+    "end": "21.09.2017",
+    "country": "USA",
+    "iso": "US",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Spojených států amerických u příležitosti Valného shromáždění OSN"
+  },
+  {
+    "start": "10.10.2017",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "type": "vystoupení",
+    "desc": "vystoupení na parlamentním shromáždění ve Štrasburku "
+  },
+  {
+    "start": "13.10.2017",
+    "end": "14.10.2017",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "type": "účast na summitu",
+    "desc": "summit prezidentů V4"
+  },
+  {
+    "start": "20.11.2017",
+    "end": "24.11.2017",
+    "country": "Rusko",
+    "iso": "RU",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva v Ruské federaci"
+  },
+  {
+    "start": "12.12.2017",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Slovenska"
+  },
+  {
+    "start": "04.04.2018",
+    "end": "06.04.2018",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva Slovenska (Tatry)"
+  },
+  {
+    "start": "09.05.2018",
+    "end": "11.05.2018",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva Polské republiky"
+  },
+  {
+    "start": "11.07.2018",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "type": "účast na summitu",
+    "desc": "Summit NATO v Bruselu"
+  },
+  {
+    "start": "29.07.2018",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "setkání",
+    "desc": "společná cesta slovenského a českého prezidenta vlakem z Hodonína do Topolčianek u příležitosti výročí 100 let republiky"
+  },
+  {
+    "start": "11.10.2018",
+    "end": "12.10.2018",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Slovenska summitu prezidentů V4 na Štrbském plese"
+  },
+  {
+    "start": "19.10.2018",
+    "end": "21.10.2018",
+    "country": "Německo",
+    "iso": "DE",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva ve Spolkové republice Německo "
+  },
+  {
+    "start": "30.10.2018",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Slovenska u příležitosti oslav sto let od podpisu „martinské deklarace“ v Martine"
+  },
+  {
+    "start": "03.11.2018",
+    "end": "06.11.2018",
+    "country": "Čína",
+    "iso": "CN",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva v Číně u příležitosti China International Import Expo (Šanghaj) "
+  },
+  {
+    "start": "25.11.2018",
+    "end": "28.11.2018",
+    "country": "Izrael",
+    "iso": "IL",
+    "type": "státní návštěva",
+    "desc": "státní návštěva Izraele"
+  },
+  {
+    "start": "28.02.2019",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "účast na summitu",
+    "desc": "Summit bukurešťské devítky (NATO – B9) v Košicích "
+  },
+  {
+    "start": "02.04.2019",
+    "end": "04.04.2019",
+    "country": "Rakousko",
+    "iso": "AT",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva Rakouska"
+  },
+  {
+    "start": "24.04.2019",
+    "end": "29.04.2019",
+    "country": "Čína",
+    "iso": "CN",
+    "type": "účast na summitu",
+    "desc": "Belt and Road Forum, Peking"
+  },
+  {
+    "start": "14.05.2019",
+    "end": "16.05.2019",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "type": "státní návštěva",
+    "desc": "státní návštěva Maďarska"
+  },
+  {
+    "start": "05.06.2019",
+    "end": "06.06.2019",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "type": "účast na summitu",
+    "desc": "Summit Iniciativy tří moří (3SI) v Lublani "
+  },
+  {
+    "start": "31.08.2019",
+    "end": "01.09.2019",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Polska u příležitosti připomínky 80 let od vypuknutí první světové války"
+  },
+  {
+    "start": "10.09.2019",
+    "end": "12.09.2019",
+    "country": "Srbsko",
+    "iso": "RS",
+    "type": "státní návštěva",
+    "desc": "státní návštěva Srbska"
+  },
+  {
+    "start": "08.11.2019",
+    "end": "09.11.2019",
+    "country": "Německo",
+    "iso": "DE",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Německa u příležitosti výročí pádu Berlínské zdi "
+  },
+  {
+    "start": "15.11.2019",
+    "end": "16.11.2019",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Slovenska u příležitosti otevření Českého domu v Bratislavě "
+  },
+  {
+    "start": "03.12.2019",
+    "end": "04.12.2019",
+    "country": "Británie",
+    "iso": "GB",
+    "type": "účast na summitu",
+    "desc": "účast na výročním setkání NATO v Londýně "
+  },
+  {
+    "start": "09.02.2021",
+    "end": "",
+    "country": "online",
+    "iso": "",
+    "type": "účast na summitu",
+    "desc": "Summit států SVE a ČLR (tehdejší formát 17+1), videokonference"
+  },
+  {
+    "start": "08.02.2021",
+    "end": "10.02.2021",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "pracovní návštěva ",
+    "desc": "Summit prezidentů zemí V4 v Polsku (pracovní návštěva)"
+  },
+  {
+    "start": "10.05.2021",
+    "end": "",
+    "country": "online",
+    "iso": "",
+    "type": "účast na summitu",
+    "desc": "Summit v tzv. Bukurešťském formátu NATO (B9), videokonference"
+  },
+  {
+    "start": "09.06.2021",
+    "end": "10.06.2021",
+    "country": "Rakousko",
+    "iso": "AT",
+    "type": "oficiální návštěva ",
+    "desc": "oficiální návštěva Rakouska "
+  },
+  {
+    "start": "13.06.2021",
+    "end": "14.06.2021",
+    "country": "Belgie",
+    "iso": "BE",
+    "type": "účast na summitu",
+    "desc": "Summit NATO v Bruselu"
+  },
+  {
+    "start": "01.12.2021",
+    "end": "",
+    "country": "online",
+    "iso": "",
+    "type": "účast na summitu",
+    "desc": "Summit prezidentů zemí V4 v Budapešti, videokonference"
+  },
+  {
+    "start": "25.02.2022",
+    "end": "",
+    "country": "online",
+    "iso": "",
+    "type": "účast na summitu",
+    "desc": "Summit v tzv. Bukurešťském formátu NATO (B9), videokonference"
+  },
+  {
+    "start": "06.10.2022",
+    "end": "07.10.2022",
+    "country": "ČR",
+    "iso": "CZ",
+    "type": "účast na summitu",
+    "desc": "účast na neformálním summitu Evropské rady, Pražský hrad"
+  },
+  {
+    "start": "10.10.2022",
+    "end": "11.10.2022",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "účast na summitu",
+    "desc": "Summit prezidentů zemí V4 na Slovensku"
+  },
+  {
+    "start": "01.01.2023",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "pracovní návštěva ",
+    "desc": "pracovní návštěva Bratislavy u příležitosti udílení státních vyznamenání a výročí 30 let vzniku samostatné Slovenské republiky"
+  },
+  {
+    "start": "24.01.2023",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "type": "pracovní návštěva ",
+    "desc": "večeře s polským prezidentem Andezejem Dudou v polském příhraničním městě Kudowa-Zdrój"
+  },
+  {
+    "start": "30.01.2023",
+    "end": "",
+    "country": "Srbsko",
+    "iso": "RS",
+    "type": "pracovní návštěva ",
+    "desc": "setkání s prezidentem Vučićem,pracovní „rozlučková“ návštěva Slovenska, Štrbské pleso"
+  },
+  {
+    "start": "07.02.2023",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "type": "oficiální návštěva ",
+    "desc": "Zeman se při rozlučkové návštěvě Slovenska sejde ve Vysokých Tatrách se slovenskou kolegyní Zuzanou Čaputovu"
+  }
+]

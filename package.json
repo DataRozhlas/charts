@@ -10,6 +10,7 @@
     "production": "aws s3 sync out s3://datarozhlas/charts --delete --acl public-read && aws cloudfront create-invalidation --distribution-id E3ABKG4QXPTL3P --paths '/charts/*'"
   },
   "dependencies": {
+    "@highcharts/map-collection": "^2.0.1",
     "@next/font": "13.0.7",
     "@types/lodash": "^4.14.191",
     "@types/node": "18.11.17",
