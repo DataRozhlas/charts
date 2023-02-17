@@ -1,6 +1,7 @@
 import Highcharts, { seriesType } from "highcharts";
 import HighchartsReact from "highcharts-react-official";
 import HighchartsMap from "highcharts/modules/map";
+import { Asap } from "@next/font/google";
 import world from "@highcharts/map-collection/custom/world-highres.geo.json";
 //import geojson from "@highcharts/map-collection/countries/de/de-all.geo.json";
 
@@ -16,6 +17,8 @@ interface Props {
   }[];
   setSelectedCountry: (selectedCountry: string) => void;
 }
+
+const asap = Asap({ weight: "400", subsets: ["latin"] });
 
 const decline = (n: number) => {
   switch (n) {
@@ -37,6 +40,9 @@ const WorldMap = (props: Props) => {
     chart: {
       map: world,
       animation: false,
+      style: {
+        fontFamily: asap.style.fontFamily,
+      },
     },
     title: {
       text: "",

@@ -126,21 +126,14 @@ const ZemanVyjezdy = () => {
         data={calculateMapData(cleanData)}
         setSelectedCountry={setSelectedCountry}
       />
-
-      <p className="text-xs text-end">
-        Zdroj dat:{" "}
-        <Link
-          href={"https://informace.rozhlas.cz/o-nas-7965109"}
-          target="_blank"
-        >
-          Rešeršní oddělení ČRo
-        </Link>
-      </p>
       {selectedCountry.length > 0 && (
         <CountryDetails
           data={cleanData.filter(d => d.iso === selectedCountry)}
         />
       )}
+      <p className="text-xs text-end">
+        Zdroj dat: Kancelář prezidenta republiky
+      </p>
     </div>
   );
 };
