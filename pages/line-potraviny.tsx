@@ -5,7 +5,7 @@ import { useState, useEffect, useMemo } from "react";
 import { Calendar } from "react-calendar";
 import "react-calendar/dist/Calendar.css";
 import { Asap } from "@next/font/google";
-import data from "../data/ecoicop.json";
+import data from "../data/ecoicop-potraviny.json";
 import { usePostMessageWithHeight } from "../hooks";
 
 const asap = Asap({ weight: "400", subsets: ["latin"] });
@@ -43,9 +43,9 @@ const filterData = (data: any, range: Date[]) => {
   return newData;
 };
 
-const LineEcoicop = () => {
+const LinePotraviny = () => {
   const { containerRef, postHeightMessage } =
-    usePostMessageWithHeight("cro-line-ecoicop");
+    usePostMessageWithHeight("cro-line-potraviny");
 
   const [selectedRange, setSelectedRange] = useState([
     new Date(2022, 0, 1),
@@ -64,10 +64,7 @@ const LineEcoicop = () => {
         }),
       };
     });
-    const result = hideSeries(normalizedData, [
-      "Úhrn",
-      "Potraviny a nealkoholické nápoje",
-    ]);
+    const result = hideSeries(normalizedData, ["Mléko, sýry a vejce", "Ovoce"]);
     return result;
   }, [selectedRange]);
 
@@ -80,19 +77,17 @@ const LineEcoicop = () => {
       },
     },
     colors: [
-      "#000000",
-      "#de9062",
-      "#6C2751",
-      "#4F6DAB",
-      "#267080",
-      "#5B9BD5",
-      "#3E9970",
-      "#2C4F94",
-      "#CC5A71",
-      "#F19143",
-      "#CE2D4F",
-      "#564D82",
-      "#3E8989",
+      "#a6cee3",
+      "#1f78b4",
+      "#b2df8a",
+      "#e31a1c",
+      "#fb9a99",
+      "#33a02c",
+      "#fdbf6f",
+      "#ff7f00",
+      "#cab2d6",
+      "#6a3d9a",
+      "#fdbf6f",
     ],
     title: {
       text: undefined,
@@ -175,12 +170,10 @@ const LineEcoicop = () => {
   return (
     <div className="bg-white" ref={containerRef}>
       <Head>
-        <title>
-          Potraviny od jara zdražují rychleji než jiné zboží a služby
-        </title>
+        <title>Za poslední rok nejvíc zdražilo mléko, sýry a vejce</title>
       </Head>
       <h1 className="text-2xl font-bold leading-6 pb-2">
-        Potraviny od jara zdražují rychleji než jiné zboží a služby
+        Za poslední rok nejvíc zdražilo mléko, sýry a vejce
       </h1>
       <h2 className="inline-flex mb-1 items-center justify-start gap-2 w-full wrap">
         Vybrané období:
@@ -247,4 +240,4 @@ const LineEcoicop = () => {
   );
 };
 
-export default LineEcoicop;
+export default LinePotraviny;
