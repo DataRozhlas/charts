@@ -170,10 +170,10 @@ const LinePotraviny = () => {
   return (
     <div className="bg-white" ref={containerRef}>
       <Head>
-        <title>Za poslední rok nejvíc zdražilo mléko, sýry a vejce</title>
+        <title>Jak se mění ceny hlavních skupin potravin</title>
       </Head>
       <h1 className="text-2xl font-bold leading-6 pb-2">
-        Za poslední rok nejvíc zdražilo mléko, sýry a vejce
+        Jak se mění ceny hlavních skupin potravin{" "}
       </h1>
       <h2 className="inline-flex mb-1 items-center justify-start gap-2 w-full wrap">
         Vybrané období:
