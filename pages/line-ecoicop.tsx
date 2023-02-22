@@ -60,7 +60,7 @@ const LineEcoicop = () => {
       return {
         ...item,
         data: item.data.map((point: any) => {
-          return (point / item.data[0]) * 100;
+          return (point / item.data[0]) * 100 - 100;
         }),
       };
     });
@@ -158,7 +158,7 @@ const LineEcoicop = () => {
               enabled: true,
               formatter: function (this: any) {
                 if (this.point.index == this.series.data.length - 1) {
-                  const result = this.y - 100;
+                  const result = this.y;
                   return `${result > 0 ? "+" : "-"} ${Math.abs(result).toFixed(
                     1
                   )} %`;
