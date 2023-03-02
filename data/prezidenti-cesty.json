@@ -1,0 +1,3954 @@
+[
+  {
+    "start": "02.03.1993",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "inaugurace slovenského prezidenta",
+    "pres": "h"
+  },
+  {
+    "start": "15.03.1993",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "Vídeň",
+    "pres": "h"
+  },
+  {
+    "start": "20.04.1993",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "Washington",
+    "pres": "h"
+  },
+  {
+    "start": "24.04.1993",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Stuttgart, Hamburk, Bonn",
+    "pres": "h"
+  },
+  {
+    "start": "07.05.1993",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "Štrasburk, zasedání Výboru delegátů ministrů Rady Evropy",
+    "pres": "h"
+  },
+  {
+    "start": "19.05.1993",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Cáchy, udělení Ceny Karla Velikého",
+    "pres": "h"
+  },
+  {
+    "start": "23.05.1993",
+    "end": "",
+    "country": "Řecko",
+    "iso": "GR",
+    "desc": "Athény",
+    "pres": "h"
+  },
+  {
+    "start": "01.07.1993",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "Smolenice",
+    "pres": "h"
+  },
+  {
+    "start": "23.07.1993",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "Salcburk, hudební festival a setkání čtyř prezidentů",
+    "pres": "h"
+  },
+  {
+    "start": "07.08.1993",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "Brusel, pohřeb krále Baudouina I.",
+    "pres": "h"
+  },
+  {
+    "start": "08.10.1993",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "Vídeň, vrcholné shromáždění Rady Evropy",
+    "pres": "h"
+  },
+  {
+    "start": "15.10.1993",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Speyer, soukromá návštěva u Helmuta Kohla",
+    "pres": "h"
+  },
+  {
+    "start": "20.10.1993",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "Varšava, Gdaňsk, Gdyně",
+    "pres": "h"
+  },
+  {
+    "start": "10.11.1993",
+    "end": "",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "desc": " Lublaň",
+    "pres": "h"
+  },
+  {
+    "start": "07.02.1994",
+    "end": "",
+    "country": "Indie",
+    "iso": "IN",
+    "desc": "Dillí, Váránasí, Kalkata",
+    "pres": "h"
+  },
+  {
+    "start": "11.02.1994",
+    "end": "",
+    "country": "Thajsko",
+    "iso": "TH",
+    "desc": "Bangkok",
+    "pres": "h"
+  },
+  {
+    "start": "14.02.1994",
+    "end": "",
+    "country": "Kuvajt",
+    "iso": "KW",
+    "desc": "mezipřistání při návratu z Thajska",
+    "pres": "h"
+  },
+  {
+    "start": "06.03.1994",
+    "end": "",
+    "country": "Vatikán",
+    "iso": "VA",
+    "desc": "",
+    "pres": "h"
+  },
+  {
+    "start": "06.03.1994",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "Řím",
+    "pres": "h"
+  },
+  {
+    "start": "07.03.1994",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "Štrasburk, vystoupení v Evropském parlamentu",
+    "pres": "h"
+  },
+  {
+    "start": "26.05.1994",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "Bratislava",
+    "pres": "h"
+  },
+  {
+    "start": "05.06.1994",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "Caen",
+    "pres": "h"
+  },
+  {
+    "start": "05.06.1994",
+    "end": "",
+    "country": "Velká Británie ",
+    "iso": "GB",
+    "desc": "Portsmouth, 50.výročí vylodělní spojeneckých sil, D-Day",
+    "pres": "h"
+  },
+  {
+    "start": "21.06.1994",
+    "end": "",
+    "country": "Rumunsko",
+    "iso": "RO",
+    "desc": "Bukurešť, Snagov",
+    "pres": "h"
+  },
+  {
+    "start": "23.06.1994",
+    "end": "",
+    "country": "Bulharsko",
+    "iso": "BG",
+    "desc": "Sofie",
+    "pres": "h"
+  },
+  {
+    "start": "02.07.1994",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "Filadelfie, Kennenbunktport",
+    "pres": "h"
+  },
+  {
+    "start": "21.08.1994",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "Alpach, setkání středoevropských prezidentů",
+    "pres": "h"
+  },
+  {
+    "start": "27.08.1994",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "Banská Bystrica, 50.výročí Slovenského národního povstání",
+    "pres": "h"
+  },
+  {
+    "start": "27.09.1994",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "Chicago, San Francisco, Palo Alto, a stát Connecticut",
+    "pres": "h"
+  },
+  {
+    "start": "01.11.1994",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "Budapešť",
+    "pres": "h"
+  },
+  {
+    "start": "04.12.1994",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "Budapešť, vrcholné shromáždění Konference o bezpečnosti a spolupráci",
+    "pres": "h"
+  },
+  {
+    "start": "26.01.1995",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "50. výročí osvobození koncentračního tábora Osvětim-Březinka",
+    "pres": "h"
+  },
+  {
+    "start": "13.03.1995",
+    "end": "",
+    "country": "Nizozemsko",
+    "iso": "NL",
+    "desc": "Vlaardingen",
+    "pres": "h"
+  },
+  {
+    "start": "26.03.1995",
+    "end": "",
+    "country": "Austrálie",
+    "iso": "AU",
+    "desc": "Darwin, Sydney, Canberra, Melbourne, Cairns",
+    "pres": "h"
+  },
+  {
+    "start": "30.03.1995",
+    "end": "",
+    "country": "Nový Zéland",
+    "iso": "NZ",
+    "desc": "Wellington, Rotorua, Auckland",
+    "pres": "h"
+  },
+  {
+    "start": "04.04.1995",
+    "end": "",
+    "country": "Filipíny",
+    "iso": "PH",
+    "desc": "Manila, Leithé, Cebu",
+    "pres": "h"
+  },
+  {
+    "start": "07.04.1995",
+    "end": "",
+    "country": "Singapur",
+    "iso": "SG",
+    "desc": "",
+    "pres": "h"
+  },
+  {
+    "start": "27.04.1995",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "Mons, konference SHAPEX",
+    "pres": "h"
+  },
+  {
+    "start": "06.05.1995",
+    "end": "",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "Londýn, 50. výročí konce II. světové války",
+    "pres": "h"
+  },
+  {
+    "start": "08.05.1995",
+    "end": "",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "Moskva, 50. výročí konce II. světové války",
+    "pres": "h"
+  },
+  {
+    "start": "11.05.1995",
+    "end": "",
+    "country": "Španělsko",
+    "iso": "ES",
+    "desc": "Barcelona, převzetí Mezinárodní katalánské ceny spolu s Richardem von Weizsäckerem",
+    "pres": "h"
+  },
+  {
+    "start": "26.05.1995",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "Készhtely, setkání středoevropských prezidentů",
+    "pres": "h"
+  },
+  {
+    "start": "06.06.1995",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "Washington, Boston, Harvardova universita",
+    "pres": "h"
+  },
+  {
+    "start": "29.06.1995",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "Štrasburg, otevření Paláce lidských práv",
+    "pres": "h"
+  },
+  {
+    "start": "17.09.1995",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Norimberk, udílení Ceny lidských práv",
+    "pres": "h"
+  },
+  {
+    "start": "21.10.1995",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "New York, zvláštní zasedání Organizace spojených národů",
+    "pres": "h"
+  },
+  {
+    "start": "30.10.1995",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Drážďany, Technická universita",
+    "pres": "h"
+  },
+  {
+    "start": "02.12.1995",
+    "end": "",
+    "country": "Japonsko",
+    "iso": "JP",
+    "desc": "konference ",
+    "pres": "h"
+  },
+  {
+    "start": "11.12.1995",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "Retz, Seefeld",
+    "pres": "h"
+  },
+  {
+    "start": "22.12.1995",
+    "end": "",
+    "country": "Bosna a Hercegovina ",
+    "iso": "BA",
+    "desc": "Sarajevo, Mostar",
+    "pres": "h"
+  },
+  {
+    "start": "11.01.1996",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "Paříž, pohřeb Francoise Mitterranda",
+    "pres": "h"
+  },
+  {
+    "start": "14.04.1996",
+    "end": "",
+    "country": "Lotyšsko",
+    "iso": "LV",
+    "desc": "Riga",
+    "pres": "h"
+  },
+  {
+    "start": "16.04.1996",
+    "end": "",
+    "country": "Litva",
+    "iso": "LT",
+    "desc": "Vilnius, Kaunas",
+    "pres": "h"
+  },
+  {
+    "start": "18.04.1996",
+    "end": "",
+    "country": "Estonsko",
+    "iso": "EE",
+    "desc": "Tallinn",
+    "pres": "h"
+  },
+  {
+    "start": "15.05.1996",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Cáchy, udílení Ceny Karla Velikého",
+    "pres": "h"
+  },
+  {
+    "start": "07.06.1996",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "Lancut, setkání středoevropských prezidentů: České republiky, Itálie, Maďarska, Německa, Polska, Rakouska, Slovenska, Slovinska a Ukrajiny",
+    "pres": "h"
+  },
+  {
+    "start": "21.06.1996",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "Varšava, NATO-Workshop",
+    "pres": "h"
+  },
+  {
+    "start": "28.06.1996",
+    "end": "",
+    "country": "Irsko",
+    "iso": "IE",
+    "desc": "Dublin, New Grange",
+    "pres": "h"
+  },
+  {
+    "start": "15.09.1996",
+    "end": "",
+    "country": "Brazílie",
+    "iso": "BR",
+    "desc": "Brazília, Manaus, Rio de Janeiro, Sao Paulo",
+    "pres": "h"
+  },
+  {
+    "start": "22.09.1996",
+    "end": "",
+    "country": "Chile",
+    "iso": "CL",
+    "desc": "Honga Roa, Santiago de Chile",
+    "pres": "h"
+  },
+  {
+    "start": "26.09.1996",
+    "end": "",
+    "country": "Uruguay",
+    "iso": "UY",
+    "desc": "Montevideo",
+    "pres": "h"
+  },
+  {
+    "start": "27.09.1996",
+    "end": "",
+    "country": "Argentina",
+    "iso": "AR",
+    "desc": "Buenos Aires",
+    "pres": "h"
+  },
+  {
+    "start": "07.11.1996",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Berlín, diskuse bývalých disidentů FAZit",
+    "pres": "h"
+  },
+  {
+    "start": "24.04.1997",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Bonn",
+    "pres": "h"
+  },
+  {
+    "start": "13.05.1997",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "Washington, New York",
+    "pres": "h"
+  },
+  {
+    "start": "03.06.1997",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "Hnězdno, setkání prezidentů Polska, České republiky, Litvy, Německa, Maďarska, Slovenska a Ukrajiny s papežem",
+    "pres": "h"
+  },
+  {
+    "start": "06.06.1997",
+    "end": "",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "desc": "Portorož-Piran, setkání prezidentů Slovinska, České republiky, Itálie, Maďarska, Německa, Polska, Rakouska a Slovenska",
+    "pres": "h"
+  },
+  {
+    "start": "30.06.1997",
+    "end": "",
+    "country": "Ukrajina",
+    "iso": "UA",
+    "desc": "Kyjev, Černobyl, Lvov, Zborov",
+    "pres": "h"
+  },
+  {
+    "start": "06.07.1997",
+    "end": "",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "desc": "setkání prezidentů Slovinska, České republiky, Itálie, Maďarska, Německa, Polska, Rakouska a Slovenska, Portorož-Piran",
+    "pres": "h"
+  },
+  {
+    "start": "08.07.1997",
+    "end": "",
+    "country": "Španělsko",
+    "iso": "ES",
+    "desc": "setkání hlav států a vlád pod záštitou Euroatlantické rady pro partnerství",
+    "pres": "h"
+  },
+  {
+    "start": "19.09.1997",
+    "end": "",
+    "country": "Libanon",
+    "iso": "LB",
+    "desc": "Bejrút",
+    "pres": "h"
+  },
+  {
+    "start": "20.09.1997",
+    "end": "",
+    "country": "Jordánsko",
+    "iso": "JO",
+    "desc": "Ammán, Petra, Vádí Rúm",
+    "pres": "h"
+  },
+  {
+    "start": "22.09.1997",
+    "end": "",
+    "country": "Izrael",
+    "iso": "IL",
+    "desc": "Jeruzalém, Ramat Negev, Mrtvé moře, Tel Aviv",
+    "pres": "h"
+  },
+  {
+    "start": "24.09.1997",
+    "end": "",
+    "country": "Palestina",
+    "iso": "PS",
+    "desc": "Betlém",
+    "pres": "h"
+  },
+  {
+    "start": "02.10.1997",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "převzetí Fulbrightovy ceny",
+    "pres": "h"
+  },
+  {
+    "start": "09.10.1997",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "převzetí Ceny Cino del Duca, ll. vrcholné setkání členských zemí Rady Evropy",
+    "pres": "h"
+  },
+  {
+    "start": "24.10.1997",
+    "end": "",
+    "country": "Španělsko",
+    "iso": "ES",
+    "desc": "převzetí Ceny prince asturského",
+    "pres": "h"
+  },
+  {
+    "start": "13.12.1997",
+    "end": "",
+    "country": "Lucembursko",
+    "iso": "LU",
+    "desc": "účast na rozšířeném zasedání v rámci vrcholného setkání zástupců zemí Evropské unie",
+    "pres": "h"
+  },
+  {
+    "start": "23.01.1998",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "setkání prezidentů Slovenska, Bulharska, České republiky, Itálie, Maďarska, Německa, Polska, Rakouska, Rumunska, Slovinska a Ukrajiny",
+    "pres": "h"
+  },
+  {
+    "start": "09.03.1998",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "Varšava, Zelów, Lodž",
+    "pres": "h"
+  },
+  {
+    "start": "16.03.1998",
+    "end": "",
+    "country": "Švýcarsko",
+    "iso": "CH",
+    "desc": "54. zasedání Komise OSN pro lidská práva u příležitosti 50. výročí Všeobecné deklarace lidských práv",
+    "pres": "h"
+  },
+  {
+    "start": "15.09.1998",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "Washington",
+    "pres": "h"
+  },
+  {
+    "start": "03.10.1998",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "oslavy Dne německé jednoty",
+    "pres": "h"
+  },
+  {
+    "start": "12.10.1998",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "setkání prezidentů Rakouska, České republiky, Maďarska, Německa, Polska a Slovinska",
+    "pres": "h"
+  },
+  {
+    "start": "15.10.1998",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "zahájení festivalu ",
+    "pres": "h"
+  },
+  {
+    "start": "19.10.1998",
+    "end": "",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "Londýn, Wingrave, Belfast, Glasgow, Aberdeen, Oxford",
+    "pres": "h"
+  },
+  {
+    "start": "24.10.1998",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "oslavy 350. výročí Vestfálského míru, Münster",
+    "pres": "h"
+  },
+  {
+    "start": "07.11.1998",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "Bratislava",
+    "pres": "h"
+  },
+  {
+    "start": "04.12.1998",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "zahájení první výroční konference Česko-německého diskusního fóra",
+    "pres": "h"
+  },
+  {
+    "start": "08.02.1999",
+    "end": "",
+    "country": "Jordánsko",
+    "iso": "JO",
+    "desc": "účast na pohřbu jordánského krále Husajna",
+    "pres": "h"
+  },
+  {
+    "start": "25.02.1999",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "zahájení konference ",
+    "pres": "h"
+  },
+  {
+    "start": "02.03.1999",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "Paříž, Dijon",
+    "pres": "h"
+  },
+  {
+    "start": "22.04.1999",
+    "end": "",
+    "country": "Island",
+    "iso": "IS",
+    "desc": "jednání s prezidentem během mezipřistání",
+    "pres": "h"
+  },
+  {
+    "start": "23.04.1999",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "Summit Severoatlantické rady a Euroatlantické rady partnerství",
+    "pres": "h"
+  },
+  {
+    "start": "25.04.1999",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "Minneapolis/St.Paul, New York",
+    "pres": "h"
+  },
+  {
+    "start": "28.04.1999",
+    "end": "",
+    "country": "Kanada",
+    "iso": "CA",
+    "desc": "Winnipeg, Ottawa",
+    "pres": "h"
+  },
+  {
+    "start": "14.05.1999",
+    "end": "",
+    "country": "Ukrajina",
+    "iso": "UA",
+    "desc": "setkání prezidentů Bulharska, České republiky, Maďarska Německa, Polska, Rakouska, Rumunska, Slovinska a Ukrajiny",
+    "pres": "h"
+  },
+  {
+    "start": "15.06.1999",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "oslavy 10. výročí založení deníku Gazeta Wyborcza",
+    "pres": "h"
+  },
+  {
+    "start": "15.06.1999",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "inaugurace prezidenta Slovenské republiky Rudolfa Schustera",
+    "pres": "h"
+  },
+  {
+    "start": "24.06.1999",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "Budapešť",
+    "pres": "h"
+  },
+  {
+    "start": "25.06.1999",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "Vídeň",
+    "pres": "h"
+  },
+  {
+    "start": "27.06.1999",
+    "end": "",
+    "country": "Albánie",
+    "iso": "AL",
+    "desc": "Tirana, Kavaj, Morina",
+    "pres": "h"
+  },
+  {
+    "start": "27.06.1999",
+    "end": "",
+    "country": "Kosovo",
+    "iso": "XK",
+    "desc": "Pirane u Prizrenu",
+    "pres": "h"
+  },
+  {
+    "start": "30.07.1999",
+    "end": "",
+    "country": "Bosna a Hercegovina ",
+    "iso": "BA",
+    "desc": "vrcholná konference o Paktu stability pro jihovýchodní Evropu, návštěva české mise SFOR",
+    "pres": "h"
+  },
+  {
+    "start": "17.09.1999",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "Bratislava, Košice",
+    "pres": "h"
+  },
+  {
+    "start": "18.11.1999",
+    "end": "",
+    "country": "Turecko",
+    "iso": "TR",
+    "desc": "summit Organizace pro bezpečnost a spolupráci v Evropě",
+    "pres": "h"
+  },
+  {
+    "start": "03.12.1999",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "setkání prezidentů zemí Visegrádské skupiny",
+    "pres": "h"
+  },
+  {
+    "start": "17.12.1999",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "Řím",
+    "pres": "h"
+  },
+  {
+    "start": "17.12.1999",
+    "end": "",
+    "country": "Vatikán",
+    "iso": "VA",
+    "desc": "",
+    "pres": "h"
+  },
+  {
+    "start": "26.01.2000",
+    "end": "",
+    "country": "Švédsko",
+    "iso": "SE",
+    "desc": "zahájení mezinárodního fóra k problematice holocaustu",
+    "pres": "h"
+  },
+  {
+    "start": "16.02.2000",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "návštěva Evropského parlamentu",
+    "pres": "h"
+  },
+  {
+    "start": "18.02.2000",
+    "end": "",
+    "country": "Chorvatsko",
+    "iso": "HR",
+    "desc": "účast na inauguraci chorvatského prezidenta Stjepana Mesiče",
+    "pres": "h"
+  },
+  {
+    "start": "27.04.2000",
+    "end": "",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "desc": "Lublaň, zámeček Brdo",
+    "pres": "h"
+  },
+  {
+    "start": "28.04.2000",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "Székesfehérvár, setkání prezidentů Bulharska, České republiky, Chorvatska, Maďarska, Německa, Polska, Rakouska, Rumunska, Slovenska, Slovinska a Ukrajiny",
+    "pres": "h"
+  },
+  {
+    "start": "02.05.2000",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "oslava 80. narozenin bývalého spolkového prezidenta Richarda von Weizsäckera",
+    "pres": "h"
+  },
+  {
+    "start": "09.05.2000",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Berlín, Sachsenhausen, Postupim, Norimberk, Řezno",
+    "pres": "h"
+  },
+  {
+    "start": "18.05.2000",
+    "end": "",
+    "country": "Rumunsko",
+    "iso": "RO",
+    "desc": "Bukurešť",
+    "pres": "h"
+  },
+  {
+    "start": "02.06.2000",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "účast na udělení Mezinárodní ceny Karla Velikého prezidentu USA Billu Clintonovi",
+    "pres": "h"
+  },
+  {
+    "start": "09.07.2000",
+    "end": "",
+    "country": "Chorvatsko",
+    "iso": "HR",
+    "desc": "Záhřeb, Dubrovník, Bosanka",
+    "pres": "h"
+  },
+  {
+    "start": "04.09.2000",
+    "end": "",
+    "country": " USA",
+    "iso": "US",
+    "desc": "Summit tisíciletí OSN",
+    "pres": "h"
+  },
+  {
+    "start": "10.10.2000",
+    "end": "",
+    "country": "Turecko",
+    "iso": "TR",
+    "desc": "Ankara, Izmir, Efes, Selcuk, Istanbul",
+    "pres": "h"
+  },
+  {
+    "start": "07.11.2000",
+    "end": "",
+    "country": "Portugalsko",
+    "iso": "PT",
+    "desc": "pracovní setkání s Jorgem Sampaiem, prezidentem Portugalské republiky, během dovolené v Portugalsku",
+    "pres": "h"
+  },
+  {
+    "start": "19.01.2001",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "setkání prezidenti států Visegrádské skupiny: České republiky, Maďarska, Slovenska a Polska",
+    "pres": "h"
+  },
+  {
+    "start": "01.02.2001",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "převzetí Velké ceny Světové akademie kultur ",
+    "pres": "h"
+  },
+  {
+    "start": "10.02.2001",
+    "end": "",
+    "country": "Saúdská Arábie",
+    "iso": "SA",
+    "desc": "Rijád",
+    "pres": "h"
+  },
+  {
+    "start": "11.02.2001",
+    "end": "",
+    "country": "Kuvajt",
+    "iso": "KW",
+    "desc": "",
+    "pres": "h"
+  },
+  {
+    "start": "11.05.2001",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "konference ",
+    "pres": "h"
+  },
+  {
+    "start": "08.06.2001",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "setkání prezidentů Bulharska, České republiky, Chorvatska, Itálie, Jugoslávie, Maďarska, Moldávie, Německa, Polska, Rakouska, Rumunska, Slovenska, Slovinska, Ukrajiny",
+    "pres": "h"
+  },
+  {
+    "start": "13.06.2001",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "zasedání Severoatlantické rady (NAC) na úrovni hlav států, sídlo NATO",
+    "pres": "h"
+  },
+  {
+    "start": "28.06.2001",
+    "end": "",
+    "country": "Švýcarsko",
+    "iso": "CH",
+    "desc": "Curych, Bern, Lucern",
+    "pres": "h"
+  },
+  {
+    "start": "06.09.2001",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "Vídeň",
+    "pres": "h"
+  },
+  {
+    "start": "04.04.2002",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "Řím",
+    "pres": "h"
+  },
+  {
+    "start": "04.04.2002",
+    "end": "",
+    "country": "Vatikán",
+    "iso": "VA",
+    "desc": "Svatý stolec",
+    "pres": "h"
+  },
+  {
+    "start": "04.04.2002",
+    "end": "",
+    "country": "Malta",
+    "iso": "MT",
+    "desc": "Valleta, Suverénní řád maltézských rytířů",
+    "pres": "h"
+  },
+  {
+    "start": "28.05.2002",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "Summit NATO-Ruská federace",
+    "pres": "h"
+  },
+  {
+    "start": "31.05.2002",
+    "end": "",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "desc": "setkání prezidentů Bulharska, Bosny a Hercegoviny, České republiky, Chorvatska, Itálie, Jugoslávie, Maďarska, Makedonie, Moldávie, Německa, Polska, Rumunska, Rakouska, Slovenska, Slovinska a Ukrajiny",
+    "pres": "h"
+  },
+  {
+    "start": "16.07.2002",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "Paříž, Avignon",
+    "pres": "h"
+  },
+  {
+    "start": "17.09.2002",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "Washington, New York, Miami",
+    "pres": "h"
+  },
+  {
+    "start": "17.01.2003",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "Berlín",
+    "pres": "h"
+  },
+  {
+    "start": "29.01.2003",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "Bratislava",
+    "pres": "h"
+  },
+  {
+    "start": "18.03.2003",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.04.2003",
+    "end": "04.04.2003",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.04.2003",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.04.2003",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.05.2003",
+    "end": "03.05.2003",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.05.2003",
+    "end": "23.05.2003",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "30.05.2003",
+    "end": "01.06.2003",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.06.2003",
+    "end": "22.06.2003",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.07.2003",
+    "end": "06.07.2003",
+    "country": "Řecko",
+    "iso": "GR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "15.07.2003",
+    "end": "16.07.2003",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "17.09.2003",
+    "end": "18.09.2003",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.09.2003",
+    "end": "24.09.2003",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.10.2003",
+    "end": "09.10.2003",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "31.10.2003",
+    "end": "02.11.2003",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.11.2003",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.11.2003",
+    "end": "21.11.2003",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "01.12.2003",
+    "end": "03.12.2003",
+    "country": "Švédsko",
+    "iso": "SE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "14.01.2004",
+    "end": "16.01.2004",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.02.2004",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.03.2004",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "05.03.2004",
+    "end": "",
+    "country": "Makedonie",
+    "iso": "MK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "11.03.2004",
+    "end": "12.03.2004",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.03.2004",
+    "end": "25.03.2004",
+    "country": "Portugalsko",
+    "iso": "PT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "15.04.2004",
+    "end": "26.04.2004",
+    "country": "Čína",
+    "iso": "CN",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.05.2004",
+    "end": "05.05.2004",
+    "country": "Libanon",
+    "iso": "LB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "05.05.2004",
+    "end": "07.05.2004",
+    "country": "Kypr",
+    "iso": "CY",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "13.05.2004",
+    "end": "15.05.2004",
+    "country": "Norsko",
+    "iso": "NO",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "21.05.2004",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.05.2004",
+    "end": "28.05.2004",
+    "country": "Rumunsko",
+    "iso": "RO",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "06.06.2004",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.06.2004",
+    "end": "12.06.2004",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.06.2004",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "25.06.2004",
+    "end": "27.06.2004",
+    "country": "Švýcarsko",
+    "iso": "CH",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.06.2004",
+    "end": "29.06.2004",
+    "country": "Turecko",
+    "iso": "TR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.07.2004",
+    "end": "05.07.2004",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.07.2004",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "12.08.2004",
+    "end": "15.08.2004",
+    "country": "Řecko",
+    "iso": "GR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "28.08.2004",
+    "end": "29.08.2004",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.09.2004",
+    "end": "05.09.2004",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "06.09.2004",
+    "end": "07.09.2004",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.09.2004",
+    "end": "15.09.2004",
+    "country": "Uzbekistán",
+    "iso": "UZ",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.09.2004",
+    "end": "15.09.2004",
+    "country": "Kyrgyzstán",
+    "iso": "KG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.09.2004",
+    "end": "15.09.2004",
+    "country": "Kazachstán",
+    "iso": "KZ",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.09.2004",
+    "end": "29.09.2004",
+    "country": "Španělsko",
+    "iso": "ES",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.10.2004",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.10.2004",
+    "end": "21.10.2004",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "06.11.2004",
+    "end": "14.11.2004",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "06.11.2004",
+    "end": "14.11.2004",
+    "country": "Kanada",
+    "iso": "CA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.11.2004",
+    "end": "20.11.2004",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.11.2004",
+    "end": "25.11.2004",
+    "country": "Bulharsko",
+    "iso": "BG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.01.2005",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.01.2005",
+    "end": "30.01.2005",
+    "country": "Švýcarsko",
+    "iso": "CH",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "16.02.2005",
+    "end": "19.02.2005",
+    "country": "Jordánsko",
+    "iso": "JO",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.02.2005",
+    "end": "20.02.2005",
+    "country": "Saúdská Arábie",
+    "iso": "SA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.02.2005",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "05.03.2005",
+    "end": "09.03.2005",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "08.04.2005",
+    "end": "",
+    "country": "Vatikán",
+    "iso": "VA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.04.2005",
+    "end": "10.04.2005",
+    "country": "Katar",
+    "iso": "QA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "24.04.2005",
+    "end": "",
+    "country": "Vatikán",
+    "iso": "VA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.05.2005",
+    "end": "05.05.2005",
+    "country": "Turecko",
+    "iso": "TR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "08.05.2005",
+    "end": "09.05.2005",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "16.05.2005",
+    "end": "17.05.2005",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "01.06.2005",
+    "end": "03.06.2005",
+    "country": "Finsko",
+    "iso": "FI",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "08.06.2005",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "14.06.2005",
+    "end": "16.06.2005",
+    "country": "Ukrajina",
+    "iso": "UA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.08.2005",
+    "end": "",
+    "country": "Saúdská Arábie",
+    "iso": "SA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "21.08.2005",
+    "end": "24.08.2005",
+    "country": "Island",
+    "iso": "IS",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "30.08.2005",
+    "end": "31.08.2005",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.09.2005",
+    "end": "04.09.2005",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "06.09.2005",
+    "end": "08.09.2005",
+    "country": "Chorvatsko",
+    "iso": "HR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "12.09.2005",
+    "end": "15.09.2005",
+    "country": "Izrael",
+    "iso": "IL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.09.2005",
+    "end": "24.09.2005",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "30.09.2005",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "13.10.2005",
+    "end": "15.10.2005",
+    "country": "Chorvatsko",
+    "iso": "HR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "16.10.2005",
+    "end": "18.10.2005",
+    "country": "Švédsko",
+    "iso": "SE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.10.2005",
+    "end": "19.10.2005",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "21.10.2005",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "06.11.2005",
+    "end": "13.11.2005",
+    "country": "Indie",
+    "iso": "IN",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.11.2005",
+    "end": "",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "24.11.2005",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.02.2006",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.02.2006",
+    "end": "13.02.2006",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.02.2006",
+    "end": "26.02.2006",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "28.02.2006",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "08.03.2006",
+    "end": "09.03.2006",
+    "country": "Lucembursko",
+    "iso": "LU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.03.2006",
+    "end": "12.03.2006",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.03.2006",
+    "end": "23.03.2006",
+    "country": "Švýcarsko",
+    "iso": "CH",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.04.2006",
+    "end": "20.04.2006",
+    "country": "Turecko",
+    "iso": "TR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.04.2006",
+    "end": "27.04.2006",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.05.2006",
+    "end": "07.05.2006",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.05.2006",
+    "end": "10.05.2006",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.05.2006",
+    "end": "20.05.2006",
+    "country": "Bulharsko",
+    "iso": "BG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.05.2006",
+    "end": "26.05.2006",
+    "country": "Litva",
+    "iso": "LT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.05.2006",
+    "end": "26.05.2006",
+    "country": "Estonsko",
+    "iso": "EE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.06.2006",
+    "end": "24.06.2006",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "28.06.2006",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.07.2006",
+    "end": "08.07.2006",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.07.2006",
+    "end": "12.07.2006",
+    "country": "Rumunsko",
+    "iso": "RO",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "21.08.2006",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "26.08.2006",
+    "end": "28.08.2006",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "01.09.2006",
+    "end": "03.09.2006",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.09.2006",
+    "end": "05.10.2006",
+    "country": "Mongolsko",
+    "iso": "MN",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.09.2006",
+    "end": "05.10.2006",
+    "country": "Vietnam",
+    "iso": "VN",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.09.2006",
+    "end": "05.10.2006",
+    "country": "Singapur",
+    "iso": "SG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.09.2006",
+    "end": "05.10.2006",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.09.2006",
+    "end": "05.10.2006",
+    "country": "Čína",
+    "iso": "CN",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "20.10.2006",
+    "end": "",
+    "country": "Finsko",
+    "iso": "FI",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.10.2006",
+    "end": "23.10.2006",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.11.2006",
+    "end": "10.11.2006",
+    "country": "Dánsko",
+    "iso": "DK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "17.11.2006",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.11.2006",
+    "end": "23.11.2006",
+    "country": "Řecko",
+    "iso": "GR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "28.11.2006",
+    "end": "29.11.2006",
+    "country": "Lotyšsko",
+    "iso": "LV",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.12.2006",
+    "end": "14.12.2006",
+    "country": "Jihoafrická republika",
+    "iso": "ZA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.12.2006",
+    "end": "14.12.2006",
+    "country": "Nigérie",
+    "iso": "NG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "11.01.2007",
+    "end": "13.01.2007",
+    "country": "Slovesnko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "25.01.2007",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "28.01.2007",
+    "end": "30.01.2007",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "12.02.2007",
+    "end": "17.02.2007",
+    "country": "Japonsko",
+    "iso": "JP",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.02.2007",
+    "end": "24.02.2007",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.03.2007",
+    "end": "10.03.2007",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "16.06.2007",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "24.03.2007",
+    "end": "25.03.2007",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "17.04.2007",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.04.2007",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "26.04.2007",
+    "end": "29.04.2007",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.07.2007",
+    "end": "12.07.2007",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "28.07.2007",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.08.2007",
+    "end": "26.08.2007",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "06.09.2007",
+    "end": "07.09.2007",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "20.09.2007",
+    "end": "21.09.2007",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.09.2007",
+    "end": "29.09.2007",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "08.10.2007",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.11.2007",
+    "end": "09.11.2007",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "28.11.2007",
+    "end": "30.11.2007",
+    "country": "Nigérie ",
+    "iso": "NG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.12.2007",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "14.12.2007",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.12.2007",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.01.2008",
+    "end": "11.01.2008",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.03.2008",
+    "end": "04.03.2008",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.03.2008",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "11.03.2008",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "25.03.2008",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.04.2008",
+    "end": "04.04.2008",
+    "country": "Rumunsko",
+    "iso": "RO",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.04.2008",
+    "end": "09.04.2008",
+    "country": "Egypt",
+    "iso": "EG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "21.04.2008",
+    "end": "",
+    "country": "Holandsko",
+    "iso": "NL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.04.2008",
+    "end": "24.04.2008",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "01.05.2008",
+    "end": "03.05.2008",
+    "country": "Makedonie",
+    "iso": "MK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "06.05.2008",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "26.05.2008",
+    "end": "29.05.2008",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "21.08.2008",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.09.2008",
+    "end": "09.09.2008",
+    "country": "Japonsko",
+    "iso": "JP",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "12.09.2008",
+    "end": "13.09.2008",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "29.09.2008",
+    "end": "04.10.2008",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.10.2008",
+    "end": "",
+    "country": "Švýcarsko",
+    "iso": "CH",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "12.10.2008",
+    "end": "13.10.2008",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.10.2008",
+    "end": "",
+    "country": "Španělsko",
+    "iso": "ES",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.10.2008",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.11.2008",
+    "end": "04.11.2008",
+    "country": "Srbsko",
+    "iso": "RS",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.11.2008",
+    "end": "12.11.2008",
+    "country": "Irsko",
+    "iso": "IE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.12.2008",
+    "end": "11.12.2008",
+    "country": "Rumunsko",
+    "iso": "RO",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.12.2008",
+    "end": "11.12.2008",
+    "country": "Bulharsko",
+    "iso": "BG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "29.01.2009",
+    "end": "01.02.2009",
+    "country": "Švýcarsko",
+    "iso": "CH",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.02.2009",
+    "end": "11.02.2009",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.02.2009",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.02.2009",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "05.03.2009",
+    "end": "09.03.2009",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "16.03.2009",
+    "end": "17.03.2009",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.04.2009",
+    "end": "04.04.2009",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "15.04.2009",
+    "end": "17.04.2009",
+    "country": "Tunisko",
+    "iso": "TN",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.05.2009",
+    "end": "10.05.2009",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.05.2009",
+    "end": "19.05.2009",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.05.2009",
+    "end": "",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.05.2009",
+    "end": "",
+    "country": "Jižní Korea",
+    "iso": "KR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "30.05.2009",
+    "end": "",
+    "country": "Vatikán",
+    "iso": "VA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.06.2009",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.06.2009",
+    "end": "05.06.2009",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "17.06.2009",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.06.2009",
+    "end": "20.06.2009",
+    "country": "Srbsko",
+    "iso": "RS",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "22.08.2009",
+    "end": "23.08.2009",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.09.2009",
+    "end": "05.09.2009",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "11.09.2009",
+    "end": "12.09.2009",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "15.09.2009",
+    "end": "",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "16.09.2009",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "20.09.2009",
+    "end": "24.09.2009",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "05.10.2009",
+    "end": "06.10.2009",
+    "country": "Albánie",
+    "iso": "AL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "14.10.2009",
+    "end": "",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.11.2009",
+    "end": "07.11.2009",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.11.2009",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "12.11.2009",
+    "end": "",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.11.2009",
+    "end": "27.11.2009",
+    "country": "Peru",
+    "iso": "PE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.11.2009",
+    "end": "27.11.2009",
+    "country": "Brazílie",
+    "iso": "BR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.02.2010",
+    "end": "",
+    "country": "Dánsko",
+    "iso": "DK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.02.2010",
+    "end": "09.02.2010",
+    "country": "Egypt",
+    "iso": "EG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.03.2010",
+    "end": "07.03.2010",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.04.2010",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "29.04.2010",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.05.2010",
+    "end": "",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "17.05.2010",
+    "end": "18.05.2010",
+    "country": "Španělsko",
+    "iso": "ES",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "20.05.2010",
+    "end": "21.05.2010",
+    "country": "Lotyšsko",
+    "iso": "LV",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "21.06.2010",
+    "end": "22.06.2010",
+    "country": "Makedonie",
+    "iso": "MK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "30.06.2010",
+    "end": "02.07.2010",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.07.2010",
+    "end": "11.07.2010",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "21.09.2010",
+    "end": "26.09.2010",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.10.2010",
+    "end": "05.10.2010",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.10.2010",
+    "end": "",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "30.10.2010",
+    "end": "02.11.2010",
+    "country": "Kuvajt",
+    "iso": "KW",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "11.11.2010",
+    "end": "",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "26.11.2010",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "28.11.2010",
+    "end": "30.11.2010",
+    "country": "Libye",
+    "iso": "LY",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "13.01.2011",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "20.01.2011",
+    "end": "",
+    "country": "Srbsko",
+    "iso": "RS",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "24.01.2011",
+    "end": "25.01.2011",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.02.2011",
+    "end": "13.02.2011",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "11.03.2011",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "18.03.2011",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "30.03.2011",
+    "end": "03.04.2011",
+    "country": "Argentina",
+    "iso": "AR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.04.2011",
+    "end": "07.04.2011",
+    "country": "Chile",
+    "iso": "CL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.04.2011",
+    "end": "28.04.2011",
+    "country": "Černá Hora",
+    "iso": "ME",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.05.2011",
+    "end": "",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "16.05.2011",
+    "end": "19.05.2011",
+    "country": "Ázerbajdžán",
+    "iso": "AZ",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "24.05.2011",
+    "end": "25.05.2011",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.05.2011",
+    "end": "28.05.2011",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.06.2011",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.06.2011",
+    "end": "08.06.2011",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "11.06.2011",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.06.2011",
+    "end": "29.06.2011",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "20.07.2011",
+    "end": "02.08.2011",
+    "country": "Austrálie",
+    "iso": "AU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.08.2011",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.09.2011",
+    "end": "04.09.2011",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "16.09.2011",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.09.2011",
+    "end": "24.09.2011",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "07.10.2011",
+    "end": "08.10.2011",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "25.10.2011",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.11.2011",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "28.11.2011",
+    "end": "01.12.2011",
+    "country": "Senegal",
+    "iso": "SN",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "12.12.2011",
+    "end": "13.12.2011",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "14.01.2012",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "17.01.2012",
+    "end": "",
+    "country": "Saúdská Arábie",
+    "iso": "SA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "14.02.2012",
+    "end": "17.02.2012",
+    "country": "Turecko",
+    "iso": "TR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.03.2012",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.03.2012",
+    "end": "",
+    "country": "Bulharsko",
+    "iso": "BG",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "02.04.2012",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "21.04.2012",
+    "end": "23.04.2012",
+    "country": "Maroko",
+    "iso": "MA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.05.2012",
+    "end": "",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "05.05.2012",
+    "end": "06.05.2012",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "19.05.2012",
+    "end": "23.05.2012",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "10.06.2012",
+    "end": "",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "15.06.2012",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.07.2012",
+    "end": "10.07.2012",
+    "country": "Indonésie",
+    "iso": "ID",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.07.2012",
+    "end": "10.07.2012",
+    "country": "Malajsie",
+    "iso": "MY",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "12.07.2012",
+    "end": "14.07.2012",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "27.07.2012",
+    "end": "",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "20.08.2012",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "13.09.2012",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "17.09.2012",
+    "end": "20.09.2012",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "23.09.2012",
+    "end": "27.09.2012",
+    "country": "USA",
+    "iso": "US",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "11.10.2012",
+    "end": "12.10.2012",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "05.11.2012",
+    "end": "06.11.2012",
+    "country": "Laos",
+    "iso": "LA",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "13.11.2012",
+    "end": "15.11.2012",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "03.12.2012",
+    "end": "",
+    "country": "Španělsko",
+    "iso": "ES",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.12.2012",
+    "end": "05.12.2012",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "13.12.2012",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "09.01.2013",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "25.01.2013",
+    "end": "29.01.2013",
+    "country": "Chile",
+    "iso": "CL",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "26.02.2013",
+    "end": "27.02.2013",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "",
+    "pres": "k"
+  },
+  {
+    "start": "04.04.2013",
+    "end": "05.05.2013",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "prezidenta Zemana ve Slovenské republice",
+    "pres": "z"
+  },
+  {
+    "start": "23.04.2013",
+    "end": "24.04.2013",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "pracovní návštěva prezidenta Zemana v Rakouské republice",
+    "pres": "z"
+  },
+  {
+    "start": "23.05.2013",
+    "end": "24.05.2013",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "pracovní návštěva prezidenta Zemana v Polské republice",
+    "pres": "z"
+  },
+  {
+    "start": "12.06.2013",
+    "end": "13.06.2013",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "účast prezidenta Zemana na 18. summitu prezidentů střední Evropy v Bratislavě",
+    "pres": "z"
+  },
+  {
+    "start": "26.06.2013",
+    "end": "27.06.2013",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "pracovní návštěva prezidenta Zemana v Spolkové republice Německo",
+    "pres": "z"
+  },
+  {
+    "start": "30.06.2013",
+    "end": "",
+    "country": "Chorvatsko",
+    "iso": "HR",
+    "desc": "pracovní návštěva prezidenta Zemana v Chorvatské republice u příležitosti oslav vstupu Chorvatska do EU",
+    "pres": "z"
+  },
+  {
+    "start": "02.07.2013",
+    "end": "03.07.2013",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "účast prezidenta Zemana na summitu prezidentů zemí Visegrádské skupiny v polské Visle",
+    "pres": "z"
+  },
+  {
+    "start": "18.09.2013",
+    "end": "19.09.2013",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "pracovní návštěva prezidenta Zemana v Bruselu ",
+    "pres": "z"
+  },
+  {
+    "start": "06.10.2013",
+    "end": "09.10.2013",
+    "country": "Izrael",
+    "iso": "IL",
+    "desc": "státní návštěva prezidenta Zemana ve Státu Izrael",
+    "pres": "z"
+  },
+  {
+    "start": "18.10.2013",
+    "end": "",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "setkání prezidenta Zemana s prezidentem Fischerem v Českém Krumlově a Freistadtu",
+    "pres": "z"
+  },
+  {
+    "start": "20.10.2013",
+    "end": "22.10.2013",
+    "country": "Ukrajina",
+    "iso": "UA",
+    "desc": "pracovní návštěva prezidenta Zemana na Ukrajině",
+    "pres": "z"
+  },
+  {
+    "start": "24.01.2014",
+    "end": "25.01.2014",
+    "country": "Afghanistán",
+    "iso": "AF",
+    "desc": "pracovní návštěva prezidenta Zemana v Afghánské islámské republice",
+    "pres": "z"
+  },
+  {
+    "start": "06.02.2014",
+    "end": "09.02.2014",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "účast prezidenta Zemana na zahájení XXII. zimních olympijských her v Soči. Při této příležitosti se prezident Zeman setkal také s prezidentem Čínské lidové republiky panem Si Ťin-pchingem, prezidentem Ázerbajdžánské republiky Ilhamem Alijevem a prezidentem Republiky Tádžikistán Emómalí-ji Rahmónem. ",
+    "pres": "z"
+  },
+  {
+    "start": "26.02.2014",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "pracovní návštěva prezidenta Zemana v Evropském parlamentu ve Štrasburku",
+    "pres": "z"
+  },
+  {
+    "start": "01.04.2014",
+    "end": "02.04.2014",
+    "country": "Srbsko",
+    "iso": "RS",
+    "desc": "státní návštěva prezidenta Zemana v Srbské republice a v v Republice Slovinsko",
+    "pres": "z"
+  },
+  {
+    "start": "03.04.2014",
+    "end": "04.04.2014",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "desc": "státní návštěva prezidenta Zemana v Srbské republice a v v Republice Slovinsko",
+    "pres": "z"
+  },
+  {
+    "start": "20.05.2014",
+    "end": "23.05.2014",
+    "country": "Moldavsko",
+    "iso": "MD",
+    "desc": "státní návštěva prezidenta Zemana v Rumunsku a Moldavské republice",
+    "pres": "z"
+  },
+  {
+    "start": "20.05.2014",
+    "end": "23.05.2014",
+    "country": "Rumunsko",
+    "iso": "RO",
+    "desc": "státní návštěva prezidenta Zemana v Rumunsku a Moldavské republice",
+    "pres": "z"
+  },
+  {
+    "start": "03.06.2014",
+    "end": "04.06.2014",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "pracovní návštěva prezidenta Zemana v Polské republice u příležitosti oslav 25. výročí polské svobody ",
+    "pres": "z"
+  },
+  {
+    "start": "06.06.2014",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "pracovní návštěva prezidenta Zemana ve Francouzské republice oslav 70. výročí vylodění spojeneckých vojsk v Normandii.",
+    "pres": "z"
+  },
+  {
+    "start": "16.06.2014",
+    "end": "",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "pracovní návštěva prezidenta Zemana v Maďarsku u příležitosti připomínky revoluce roku 1956 a událostí roku 1989",
+    "pres": "z"
+  },
+  {
+    "start": "22.07.2014",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "pracovní návštěva prezidenta Zemana v Polské republice při příležitosti setkání prezidentů spojeneckých států ve střední a východní Evropě před Summitem NATO",
+    "pres": "z"
+  },
+  {
+    "start": "29.08.2014",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "pracovní návštěva prezidenta Zemana ve Slovenské republice u příležitosti 70. výročí Slovenského národního povstání",
+    "pres": "z"
+  },
+  {
+    "start": "04.09.2014",
+    "end": "05.09.2014",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "účast prezidenta Zemana na Summitu NATO ve Velké Británii",
+    "pres": "z"
+  },
+  {
+    "start": "08.09.2013",
+    "end": "10.09.2014",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "oficiální návštěva prezidenta Zemana Francouzské republiky",
+    "pres": "z"
+  },
+  {
+    "start": "09.10.2014",
+    "end": "",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "pracovní návštěva prezidenta Zemana ve Spolkové republice Německo k oslavám 25. výročí mírové revoluce",
+    "pres": "z"
+  },
+  {
+    "start": "16.10.2014",
+    "end": "",
+    "country": "Itálie",
+    "iso": "IT",
+    "desc": "pracovní návštěva prezidenta Zemana v Italské republice při příležitosti 10. summitu ASEM",
+    "pres": "z"
+  },
+  {
+    "start": "24.10.2014",
+    "end": "27.10.2014",
+    "country": "Čína",
+    "iso": "CN",
+    "desc": "státní návštěva prezidenta Zemana v Čínské lidové republice",
+    "pres": "z"
+  },
+  {
+    "start": "16.11.2014",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "pracovní návštěva prezidenta Zemana v Slovenské republice u příležitosti 25. výročí sametové revoluce",
+    "pres": "z"
+  },
+  {
+    "start": "23.11.2014",
+    "end": "25.11.2014",
+    "country": "Kazachstán",
+    "iso": "KZ",
+    "desc": "oficiální návštěva prezidenta Zemana v Republice Kazachstán a v Republice Tádžikistán",
+    "pres": "z"
+  },
+  {
+    "start": "25.11.2014",
+    "end": "27.11.2014",
+    "country": "Tádžikistán",
+    "iso": "TJ",
+    "desc": "oficiální návštěva prezidenta Zemana v Republice Kazachstán a v Republice Tádžikistán",
+    "pres": "z"
+  },
+  {
+    "start": "09.02.2015",
+    "end": "11.02.2015",
+    "country": "Jordánsko",
+    "iso": "JO",
+    "desc": "oficiální návštěva prezidenta Zemana v Jordánském hášimovském království a Spojených arabských emirátech",
+    "pres": "z"
+  },
+  {
+    "start": "11.02.2015",
+    "end": "13.02.2015",
+    "country": "Spojené arabské emiráty",
+    "iso": "AE",
+    "desc": "oficiální návštěva prezidenta Zemana v Jordánském hášimovském království a Spojených arabských emirátech",
+    "pres": "z"
+  },
+  {
+    "start": "01.03.2015",
+    "end": "03.03.2015",
+    "country": "USA",
+    "iso": "US",
+    "desc": "pracovní návštěva prezidenta Zemana ve Spojených státech amerických",
+    "pres": "z"
+  },
+  {
+    "start": "24.04.2015",
+    "end": "",
+    "country": "Vatikán",
+    "iso": "VA",
+    "desc": "oficiální návštěva prezidenta Zemana ve Vatikánu",
+    "pres": "z"
+  },
+  {
+    "start": "07.05.2015",
+    "end": "08.05.2015",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "pracovní návštěva prezidenta Zemana v Polské republice při příležitosti připomínky 70. výročí konce druhé světové",
+    "pres": "z"
+  },
+  {
+    "start": "21.05.2015",
+    "end": "22.05.2015",
+    "country": "Lotyšsko",
+    "iso": "LV",
+    "desc": "pracovní návštěva prezidenta Zemana v Lotyšské republice u příležitosti 4. summitu Východního partnerství ",
+    "pres": "z"
+  },
+  {
+    "start": "01.09.2015",
+    "end": "06.09.2015",
+    "country": "Čína",
+    "iso": "CN",
+    "desc": "pracovní návštěva ČLR",
+    "pres": "z"
+  },
+  {
+    "start": "14.07.2015",
+    "end": "17.07.2015",
+    "country": "Ázerbajdžán",
+    "iso": "AZ",
+    "desc": "státní návštěva v Ázerbájdžánské republice ",
+    "pres": "z"
+  },
+  {
+    "start": "26.09.2015",
+    "end": "29.09.2015",
+    "country": "USA",
+    "iso": "US",
+    "desc": "pracovní návštěva Spojených států amerických u příležitosti Valného shromáždění OSN",
+    "pres": "z"
+  },
+  {
+    "start": "07.10.2015",
+    "end": "09.10.2015",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "pracovní návštěva Maďarské republiky při příležitosti summitu prezidentů zemí V4",
+    "pres": "z"
+  },
+  {
+    "start": "07.06.2016",
+    "end": "09.06.2016",
+    "country": "Arménie",
+    "iso": "AM",
+    "desc": "státní návštěva v Arménské republice",
+    "pres": "z"
+  },
+  {
+    "start": "09.06.2016",
+    "end": "10.06.2016",
+    "country": "Severní Makedonie",
+    "iso": "MK",
+    "desc": "oficiální návštěva v Makedonské republice",
+    "pres": "z"
+  },
+  {
+    "start": "08.07.2016",
+    "end": "09.07.2016",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "Summit NATO ve Varšavě",
+    "pres": "z"
+  },
+  {
+    "start": "13.07.2016",
+    "end": "13.06.2016",
+    "country": "Mongolsko",
+    "iso": "MN",
+    "desc": "Summit ASEM v Ulánbátaru",
+    "pres": "z"
+  },
+  {
+    "start": "03.08.2016",
+    "end": "07.08.2016",
+    "country": "Brazílie",
+    "iso": "BR",
+    "desc": "účast na zahájení Letních olympijských her 2016 v Riu de Janeiro",
+    "pres": "z"
+  },
+  {
+    "start": "19.09.2016",
+    "end": "22.09.2016",
+    "country": "USA",
+    "iso": "US",
+    "desc": "pracovní návštěva USA, 71. zasedání Valného shromáždění OSN",
+    "pres": "z"
+  },
+  {
+    "start": "29.09.2016",
+    "end": "01.10.2016",
+    "country": "Řecko",
+    "iso": "GR",
+    "desc": "pracovní návštěva v Helénské republice, účast na Rhodes Forum 2016",
+    "pres": "z"
+  },
+  {
+    "start": "13.10.2016",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "účast na pohřbu Michala Kováče v Bratislavě",
+    "pres": "z"
+  },
+  {
+    "start": "14.10.2016",
+    "end": "15.10.2016",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "summit prezidentů zemí V4 v Polsku",
+    "pres": "z"
+  },
+  {
+    "start": "13.12.2016",
+    "end": "15.12.2016",
+    "country": "Portugalsko",
+    "iso": "PT",
+    "desc": "státní návštěva Portugalské republiky",
+    "pres": "z"
+  },
+  {
+    "start": "28.03.2017",
+    "end": "29.03.2017",
+    "country": "Chorvatsko",
+    "iso": "HR",
+    "desc": "státní návštěva Chorvatské republiky ",
+    "pres": "z"
+  },
+  {
+    "start": "12.05.2017",
+    "end": "17.05.2017",
+    "country": "Čína",
+    "iso": "CN",
+    "desc": "Konference Belt and Road Forum v Číně",
+    "pres": "z"
+  },
+  {
+    "start": "15.05.2017",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "Summit NATO v Bruselu",
+    "pres": "z"
+  },
+  {
+    "start": "06.06.2017",
+    "end": "08.06.2017",
+    "country": "Vietnam",
+    "iso": "VN",
+    "desc": "státní návštěva ve Vientamu",
+    "pres": "z"
+  },
+  {
+    "start": "08.06.2017",
+    "end": "10.06.2017",
+    "country": "Kazachstán",
+    "iso": "KZ",
+    "desc": "návštěva EXPO v Astaně ",
+    "pres": "z"
+  },
+  {
+    "start": "16.06.2017",
+    "end": "",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "pracovní návštěvě Velké Británie",
+    "pres": "z"
+  },
+  {
+    "start": "18.09.2017",
+    "end": "21.09.2017",
+    "country": "USA",
+    "iso": "US",
+    "desc": "pracovní návštěva Spojených států amerických u příležitosti Valného shromáždění OSN",
+    "pres": "z"
+  },
+  {
+    "start": "10.10.2017",
+    "end": "",
+    "country": "Francie",
+    "iso": "FR",
+    "desc": "vystoupení na parlamentním shromáždění ve Štrasburku ",
+    "pres": "z"
+  },
+  {
+    "start": "13.10.2017",
+    "end": "14.10.2017",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "summit prezidentů V4",
+    "pres": "z"
+  },
+  {
+    "start": "20.11.2017",
+    "end": "24.11.2017",
+    "country": "Rusko",
+    "iso": "RU",
+    "desc": "oficiální návštěva v Ruské federaci",
+    "pres": "z"
+  },
+  {
+    "start": "12.12.2017",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "pracovní návštěva Slovenska",
+    "pres": "z"
+  },
+  {
+    "start": "04.04.2018",
+    "end": "06.04.2018",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "oficiální návštěva Slovenska (Tatry)",
+    "pres": "z"
+  },
+  {
+    "start": "09.05.2018",
+    "end": "11.05.2018",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "oficiální návštěva Polské republiky",
+    "pres": "z"
+  },
+  {
+    "start": "11.07.2018",
+    "end": "",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "Summit NATO v Bruselu",
+    "pres": "z"
+  },
+  {
+    "start": "29.07.2018",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "společná cesta slovenského a českého prezidenta vlakem z Hodonína do Topolčianek u příležitosti výročí 100 let republiky",
+    "pres": "z"
+  },
+  {
+    "start": "11.10.2018",
+    "end": "12.10.2018",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "pracovní návštěva Slovenska summitu prezidentů V4 na Štrbském plese",
+    "pres": "z"
+  },
+  {
+    "start": "19.10.2018",
+    "end": "21.10.2018",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "oficiální návštěva ve Spolkové republice Německo ",
+    "pres": "z"
+  },
+  {
+    "start": "30.10.2018",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "pracovní návštěva Slovenska u příležitosti oslav sto let od podpisu „martinské deklarace“ v Martine",
+    "pres": "z"
+  },
+  {
+    "start": "03.11.2018",
+    "end": "06.11.2018",
+    "country": "Čína",
+    "iso": "CN",
+    "desc": "pracovní návštěva v Číně u příležitosti China International Import Expo (Šanghaj) ",
+    "pres": "z"
+  },
+  {
+    "start": "25.11.2018",
+    "end": "28.11.2018",
+    "country": "Izrael",
+    "iso": "IL",
+    "desc": "státní návštěva Izraele",
+    "pres": "z"
+  },
+  {
+    "start": "28.02.2019",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "Summit bukurešťské devítky (NATO – B9) v Košicích ",
+    "pres": "z"
+  },
+  {
+    "start": "02.04.2019",
+    "end": "04.04.2019",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "oficiální návštěva Rakouska",
+    "pres": "z"
+  },
+  {
+    "start": "24.04.2019",
+    "end": "29.04.2019",
+    "country": "Čína",
+    "iso": "CN",
+    "desc": "Belt and Road Forum, Peking",
+    "pres": "z"
+  },
+  {
+    "start": "14.05.2019",
+    "end": "16.05.2019",
+    "country": "Maďarsko",
+    "iso": "HU",
+    "desc": "státní návštěva Maďarska",
+    "pres": "z"
+  },
+  {
+    "start": "05.06.2019",
+    "end": "06.06.2019",
+    "country": "Slovinsko",
+    "iso": "SI",
+    "desc": "Summit Iniciativy tří moří (3SI) v Lublani ",
+    "pres": "z"
+  },
+  {
+    "start": "31.08.2019",
+    "end": "01.09.2019",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "pracovní návštěva Polska u příležitosti připomínky 80 let od vypuknutí první světové války",
+    "pres": "z"
+  },
+  {
+    "start": "10.09.2019",
+    "end": "12.09.2019",
+    "country": "Srbsko",
+    "iso": "RS",
+    "desc": "státní návštěva Srbska",
+    "pres": "z"
+  },
+  {
+    "start": "08.11.2019",
+    "end": "09.11.2019",
+    "country": "Německo",
+    "iso": "DE",
+    "desc": "pracovní návštěva Německa u příležitosti výročí pádu Berlínské zdi ",
+    "pres": "z"
+  },
+  {
+    "start": "15.11.2019",
+    "end": "16.11.2019",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "pracovní návštěva Slovenska u příležitosti otevření Českého domu v Bratislavě ",
+    "pres": "z"
+  },
+  {
+    "start": "03.12.2019",
+    "end": "04.12.2019",
+    "country": "Velká Británie",
+    "iso": "GB",
+    "desc": "účast na výročním setkání NATO v Londýně ",
+    "pres": "z"
+  },
+  {
+    "start": "08.02.2021",
+    "end": "10.02.2021",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "Summit prezidentů zemí V4 v Polsku (pracovní návštěva)",
+    "pres": "z"
+  },
+  {
+    "start": "09.06.2021",
+    "end": "10.06.2021",
+    "country": "Rakousko",
+    "iso": "AT",
+    "desc": "oficiální návštěva Rakouska ",
+    "pres": "z"
+  },
+  {
+    "start": "13.06.2021",
+    "end": "14.06.2021",
+    "country": "Belgie",
+    "iso": "BE",
+    "desc": "Summit NATO v Bruselu",
+    "pres": "z"
+  },
+  {
+    "start": "10.10.2022",
+    "end": "11.10.2022",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "Summit prezidentů zemí V4 na Slovensku",
+    "pres": "z"
+  },
+  {
+    "start": "01.01.2023",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "pracovní návštěva Bratislavy u příležitosti udílení státních vyznamenání a výročí 30 let vzniku samostatné Slovenské republiky",
+    "pres": "z"
+  },
+  {
+    "start": "24.01.2023",
+    "end": "",
+    "country": "Polsko",
+    "iso": "PL",
+    "desc": "setkání s polským prezidentem Andrzejem Dudou, Náchod/ Kudowa-Zdrój",
+    "pres": "z"
+  },
+  {
+    "start": "30.01.2023",
+    "end": "",
+    "country": "Srbsko",
+    "iso": "RS",
+    "desc": "pracovní návštěva Srbska a setkání s prezidentem Vučićem",
+    "pres": "z"
+  },
+  {
+    "start": "07.02.2023",
+    "end": "",
+    "country": "Slovensko",
+    "iso": "SK",
+    "desc": "pracovní „rozlučková“ návštěva Slovenska, Štrbské pleso",
+    "pres": "z"
+  }
+]

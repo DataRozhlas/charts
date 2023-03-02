@@ -2,7 +2,7 @@ import Highcharts, { seriesType } from "highcharts";
 import HighchartsReact from "highcharts-react-official";
 import HighchartsMap from "highcharts/modules/map";
 import { Asap } from "@next/font/google";
-import world from "@highcharts/map-collection/custom/world-highres.geo.json";
+import world from "@highcharts/map-collection/custom/world-palestine-highres.geo.json";
 //import geojson from "@highcharts/map-collection/countries/de/de-all.geo.json";
 
 if (typeof Highcharts === "object") {
@@ -73,6 +73,7 @@ const WorldMap = (props: Props) => {
 
     colorAxis: {
       tickPixelInterval: 100,
+      max: 60,
       minColor: "#fee8c8",
       maxColor: "#e34a33",
     },
