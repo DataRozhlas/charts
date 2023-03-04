@@ -102,10 +102,16 @@ function getUniqueCountries(
     ...new Set(data.filter(d => d.pres !== filter).map(d => d.iso)),
   ];
   const uniqueCountries = [...new Set(filteredData.map(d => d.iso))];
+
   return uniqueCountries
-    .filter(c => !othersCountries.includes(c))
-    .map(c => getCountryNames.of(c))
-    .sort(new Intl.Collator("cs").compare);
+    .filter((c: string) => !othersCountries.includes(c))
+    .sort((a: string, b: string) => new Intl.Collator("cs").compare(a, b))
+    .map((c: string) => getCountryNames.of(c));
+}
+
+function findMaxValue(data: { value: number }[]) {
+  const maxValue = Math.max(...data.map(d => d.value));
+  return maxValue;
 }
 
 const PrezidentiVyjezdy = () => {
@@ -220,7 +226,11 @@ const PrezidentiVyjezdy = () => {
         Kliknutím na stát v mapě zobrazíte výpis návštěv
       </div>
 
-      <WorldMap data={mapData} setSelectedCountry={setSelectedCountry} />
+      <WorldMap
+        data={mapData}
+        setSelectedCountry={setSelectedCountry}
+        colorAxisMax={findMaxValue(mapData)}
+      />
       {selectedCountry.length > 0 && (
         <CountryDetails
           data={filteredData.filter(d => d.iso === selectedCountry)}

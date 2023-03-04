@@ -16,6 +16,7 @@ interface Props {
     value: number;
   }[];
   setSelectedCountry: (selectedCountry: string) => void;
+  colorAxisMax?: number;
 }
 
 const asap = Asap({ weight: "400", subsets: ["latin"] });
@@ -73,7 +74,7 @@ const WorldMap = (props: Props) => {
 
     colorAxis: {
       tickPixelInterval: 100,
-      max: 60,
+      max: props.colorAxisMax,
       minColor: "#fee8c8",
       maxColor: "#e34a33",
     },
