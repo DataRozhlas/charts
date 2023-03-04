@@ -154,7 +154,7 @@ const PrezidentiVyjezdy = () => {
       <h1 className="text-2xl font-bold leading-6 pb-1">
         Zahraniční cesty českých prezidentů 1993 – 2023
       </h1>
-      <div className="flex gap-3 py-1 my-2 items-center sm:justify-end">
+      <div className="flex gap-3 py-1 mx-1 my-2 items-center sm:justify-end">
         <p className="hidden sm:block text-sm">Vyberte prezidenta:</p>
         <button
           className={`rounded-md py-1.5 px-2.5 text-sm font-semibold ${
@@ -202,7 +202,7 @@ const PrezidentiVyjezdy = () => {
           všichni
         </button>
       </div>
-      <div className="pt-2 h-60 sm:h-40">
+      <div className="pt-2 h-60 sm:h-44">
         <div className="mb-2 text-sm sm:text-lg">
           <span className="font-bold">{getNumberOfVisits(filteredData)}</span>{" "}
           zahraničních cest |{" "}
